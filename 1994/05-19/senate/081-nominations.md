@@ -1,0 +1,1099 @@
+---
+granule: CREC-1994-05-19-pt1-PgS82
+date: 1994-05-19
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# NOMINATIONS
+
+```
+[Congressional Record: May 19, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                              NOMINATIONS
+
+  Executive nominations received by the Senate May 19, 1994:
+
+
+           national foundation on the arts and the humanities
+
+       Rachel Worby, of West Virginia, to be a Member of the 
+     National Council on the Arts for a term expiring September 3, 
+     1998, vice Ardis Krainik, term expired.
+
+
+                export-Import bank of the united states
+
+       Julie d. Belaga, of Connecticut, to be a Member of the 
+     Board of Directors of the Export-Import Bank of the United 
+     States for the remainder of the term expiring January 20, 
+     1995, vice Cecil B. Thompson.
+       Julie D. Belaga, of Connecticut, to be a Member of the 
+     Board of Directors of the Export-Import Bank of the United 
+     States for a term expiring January 20, 1999. (Reappointment.)
+
+
+                          department of energy
+
+       Joseph f. Vivona, of New Jersey, to be Chief Financial 
+     Officer, Department of Energy. (New Position.)
+
+
+                              in the navy
+
+       The following-named officer for reappointment to the grade 
+     of Vice Admiral while assigned to a position of importance 
+     and responsibility under Title 10, United States Code, 
+     Section 601:
+
+                           To be vice admiral
+
+Vice Adm. Timothy W. Wright, 000-00-0000
+
+       The following-named officer for appointment to the grade of 
+     Vice Admiral while assigned to a position of importance and 
+     responsibility under Title 10, United States Code, Section 
+     601:
+
+                           To be vice admiral
+
+Rear Adm. William A. Earner, Jr., 000-00-0000
+
+       The following-named commander in the line of the Navy for 
+     promotion to the permanent grade of captain, pursuant to 
+     Title 10, United States Code, section 628, subject to 
+     qualifications therefore as provided by law:
+
+
+                       unrestricted line officer
+
+                             To be captain
+
+Douglas Jay Law
+
+       The following-named lieutenant commanders in the line of 
+     the Navy for promotion to the permanent grade of commander, 
+     pursuant to title 10, United States Code, Section 624, 
+     subject to qualifications therefore as provided by law:
+
+
+                       unrestricted line officers
+
+                            To be commander
+
+     Donald Michael Abrashoff
+     Michael James Adams
+     Kurt A. Albers
+     Stephen George Albers
+     John R. Albiso
+     Kevin C. Albright
+     Frederick Mitchel Alexander
+     Townsend Griffiss Alexander
+     Michael Joseph Alfonso
+     Theodore Paul Algire
+     Michael Roy Allen
+     Patrick Eugene Allen
+     Paul M. Allen
+     Steven Patrick Ambrose
+     John Michael Andersen
+     Bruce Lee Anderson
+     Peter Allen Andreasen
+     David Stevens Angood
+     George Edward Argerake
+     John Joseph Arnold
+     Mark Reynolds Arnold
+     Thomas Edward Arnold
+     John Louis Ash, Jr.
+     Robin Lynn Atkins
+     Gary Don Atkinson
+     Joseph Peter Aucoin
+     Donald E. Babock
+     David Anthony Baciocco
+     Richard Lee Bainbridge
+     George H. Baker
+     Craig W. Baldwin
+     Joe Dan Banker
+     David NMN Baranek
+     Johnnie Baxter Barfoot, Jr.
+     Brent Herring Barrow
+     Michael Austin Bass
+     Sara Ann Bateman
+     Mark L. Bathrick
+     Kevin H. Baxter
+     William Michael Baxter
+     Thomas McDowell Bayley
+     Scott David Beach
+     Ray Oliver Beard, Jr.
+     Denise Lorraine Bechtol
+     Jeffrey Scott Beeby
+     Rebecca Jo Beener
+     Philip Gregory Beierl
+     Dale Harold Benson
+     Allan Jeffrey Berke
+     Gilbert Lynn Bever
+     DAVID CHARLES BEYRODT,
+     DOUGLAS TODD BIESEL,
+     JAMES JOSEPH BIRD,
+     JOHN LEE BISKADUROS,
+     STEPHEN PETER BLACK,
+     MICHAEL JAMES BLANCHET,
+     JEFFREY ALAN BLOOM,
+     MATTHEW GERARD BOENSEL,
+     RONALD EDGAR BOERGER,
+     MICHAEL JOSEPH BOND,
+     EDWARD MORRIS BOORDA,
+     CHARLES W. BOOTH,
+     JAMES RUNYAN BOOTH,
+     TIMOTHY LEE BOSILJEVAC,
+     ROBERT WESLEY BOUGHER,
+     STEPHEN WILLARD BOURGEOIS,
+     CHARLES PATRICK BOURNE,
+     WILLIAM DAVIS BOURNE, JR.,
+     ROBERT OWEN BOWERS,
+     PHILLIP OWEN BOYER,
+     MATTHEW J. BOYNE,
+     JOE DEAN BRANNAN,
+     LOREN RICHARD BREMSETH,
+     MARK R. BREOR,
+     JEFFREY A. BRIGGS,
+     JAMES B. BRINKMAN,
+     BARRY JAMES BROCATO,
+     STEVEN EADES BROOKS,
+     JOHN MICHAEL BROWN,
+     RONALD LEE BROWN,
+     NERISSA BRUECKBAUER,
+     ANDRES ARMANDO BRUGAL,
+     DOUGLAS BRUCE BUCHANAN, JR.,
+     GERALD W. BUCK,
+     MICHAEL D. BUDNEY,
+     SAMUEL SNYDER BUNDRICK, JR.,
+     KENNETH JAMES BURKER,
+     BRIAN EDWARD BURLINGAME,
+     JAMES M. BURTON,
+     PAUL JAMES BUSHONG,
+     EDWARD ERIC BUTLER, JR.,
+     STEPHEN CALLAGHAN,
+     RICHARD STANTON CALLAS,
+     HIPOLITO LEON CAMACHO,
+     STEPHEN JAMES CAMACHO,
+     RICHARD SCOTT CAMPBELL,
+     STEVEN ANDREWS CARDEN,
+     CARL ANDREW CARPENTER,
+     NEVIN PALMER CARR, JR.,
+     DALE E. CARSON,
+     JOHN WELLS CASEY III,
+     LAURIE ANN CASON,
+     JEFFREY MITCHELL CATHEY,
+     JOSEPH M. CATOE,
+     RANDOLPH ERNEST CAUSEY,
+     WILLIAM M. CAVITT,
+     GARY ESTRADA CEREZO,
+     DANIEL WILLIAM CHANG,
+     MICHAEL CHAPLINE,
+     CHARLES HENRY CHENOWETH,
+     LIONEL L. CHERI, JR.,
+     DAVID JOSEPH CHESLAK,
+     R.D. CHRISTENSEN,
+     JOHN NELS CHRISTENSON,
+     KAREN ELIZABETH CLARKHANSEN,
+     MARK NICOLA CLEMENTE,
+     KENNETH DONALD COBURN,
+     ERIC TALMADGE COCHRAN,
+     MARK ALAN COCHRAN,
+     DAVID JOSEPH COISSON,
+     ROGER WAYNE COLDIRON,
+     CRANFORD RONALD COLEMAN, JR.,
+     HAROLD HENRY COLLINS,
+     JAMES JOSEPH COLTELLARO,
+     MARK ALAN COMPTON,
+     MICHAEL JOSEPH CONNOR,
+     JAMES JOSEPH CONVERY,
+     GREGORY KENT COPELAND,
+     WILLIAM A. CORRELLUS,
+     LOUIS JOSEPH CORTELLINI,
+     BRIAN ANTHONY COSGROVE,
+     JOSEPH MATTHEW COULTER,
+     DAVID ALLEN CRANDALL,
+     MARY ANNE CRAWFORD,
+     KEVIN J. CREAHAN,
+     RONALD WILLIAM CRITCH,
+     WILLIAM W. CROW,
+     WILLIAM BENNETT CROWNOVER,
+     GEORGE PARKER CROY III,
+     DAVID WILLIAM CULLY,
+     LISA ANE CURTIN,
+     S.A. CUSHANICK,
+     MICHAEL KEITH DAHLMAN,
+     RIVET JOHN DAIGRE,
+     THOMAS J. DARGAN,
+     DAVID FRANKLIN DARNELL,
+     DAN W. DAVENPORT
+     DALE L. DEAN
+     GERALD F. DECONTO
+     STANLEY VICENT DEGEUS
+     MICHAEL ANGELO DELANEY
+     SCOTT WINFRED DEMARY
+     EDWARD L. DEMPSEY
+     JAMES DANIEL DENMARK
+     THOMAS WALTER DEPPE
+     STEVEN PAUL DESJARDINS
+     LAURA LEA DESROSIERS
+     JOHN DAVID DICKINSON
+     FERDINAND DIEMER
+     KING HASTINGS DIETRICH
+     TED ALLEN DILL
+     MICHALE JAMES DONCH III
+     KEVIN MICHAEL DONEGAN
+     PETER J. DOUGHERTY
+     LAWRENCE GEORGE DOWNS JR.
+     PAUL RANDAL DOYLE
+     FRED PAUL DRAKE JR.
+     TERRY MICHAEL DRUFFEL
+     PETER NMN DUNKLIN
+     HELEN FRANCES DUNN
+     MICHAEL R. DURKIN
+     DAVID CRAIG DYKHOFF
+     CRAWFORD ALAN EASTERLING
+     DANA EDWIN EBERLIN
+     REED ALAN ECKSTROM
+     CHARLES M. EDMONDSON
+     GARY WAYNE EDWARDS
+     GERDA WILLIE EDWARDS
+     JOE F. EDWARDS
+     STEPHEN EVERETT ELLEFSON
+     CAROL JO HERRON ELLIS
+     JERRY ALLISTER ELLISON
+     JEFFREY LAWRENCE ELLWOOD
+     JOHN ELNITSKY II
+     ELIZABETH ANN ENNIS
+     ADREON MARK ENSOR
+     MICHAEL JOSEPH EPISCOPO
+     RITA VILLAPANDO ESPIRITU
+     CHARLES EVERETT
+     ANTHONY BYRON FARMER
+     MAUREEN ANN FARREN
+     THOMAS MICHAEL FELDMAN
+     JOEL DEAN FELLOWS
+     TIMOTHY LESTER FERREE
+     BRIAN GOODWIN FINCH
+     KENNETH D. FINK
+     MARK GEORGE FISCHER
+     TRACEY ALAN FISCHER
+     ROBERT W. FISH
+     DENISE DILLON FITE
+     M.J. FITZGERALD
+     STEPHEN JAMES FITZGERALD
+     SUSAN PATRICIA FITZGERALD
+     DENNIS E. FITZPARTICK
+     DAVID KENNETH FLAGG
+     KENNETH EARL FLOYD
+     TIMOTHY BROOKS FLOYD
+     JOSEPH MICHAEL FLYNN
+     JOHN JOSEPH FORAN JR.
+     ROBERT LEE FORD
+     WILLIAM FEENY FOSTER JR.
+     CHARLES W. FOWLER III
+     MICHAEL JAMES FRANCIS
+     STEPHEN COLBY FRASER
+     R. LEE FREITAG JR.
+     NELS ARNE FROSTENSON
+     CHARLES ROBERT FRYE
+     PETER ALLEN FYLES
+     DANIEL ROBERT GAHAGAN
+     JOHN GREGORY GALLAGHER
+     JOHN JOSEPH GALLAGHER
+     PAUL CHRISTIAN GALLAGHER
+     RICK MICHAEL GALLAGHER
+     GERALD STEPHEN GALLOP
+     GEORGE G. GALYO
+     DAVID EDWIN GANGWER
+     RAUL ROBERTO GARCIA
+     LOUIS JULIAN GATSKI
+     LYNNE DORIS GAUDREAU
+     EARL LENELL GAY
+     BRADLEY ROBERT GEHRKE
+     GREGORY LEE GEORGE
+     LEE BERRIMAN GERMAN
+     JEFFREY LAWRENCE GERNAND
+     MICHAEL CRAIG GERON
+     DONALD DWIGHT GERRY JR.
+     WILLIAM J. GIERI
+     KENNETH GERARD GIGLIOTTI
+     CHARLES RICHARD GILE
+     KARL LEE GILLETTE
+     MARTHA CAROL GILLETTE
+     LARRY MATTHEW GILLIS
+     STANLEY PAUL GIZA
+     JOSEPH CASIMIR GLADYSZEWSKI
+     JAMES IREDELL GODLEY
+     DANIEL ANTHONY GOMRICK
+     EDWARD RANDALL GOODMAN
+     DENNIS EDWARD GRANGER
+     JAMES STEPHEN GRANT
+     DANIEL RAYMOND GRAY
+     JOHN L. GREEN
+     JEFFREY EMERSON GREER
+     CHRISTOPHER J.T. GREGERSON
+     JOHN MICHAEL KENT GRITTON
+     BRUCE E. GROOMS
+     PAUL SCOTT GROSSGOLD
+     LOIS HELEN GRUENDL
+     SCOTT GRUNDMEIER
+     JAMES CHARLES GRUNEWALD
+     MARK DANIEL GUADAGNINI
+     NORMAN ELLIOTT GUTZLER
+     KENNETH LEEBUTLER HAIZLIP
+     JOHN R. HALEY
+     KENNETH B. HALL
+     LEE JAMES HALL
+     JANICE MARIE HAMBY
+     DOUGLAS GORDON HANCHER
+     STEPHEN DWIGHT HANCOCK
+     ROSE MICHELLE HANKO
+     MICHAEL JOHN HANSEN
+     JOHN HENRY HARRINGTON III
+     M.L. HARRINGTON
+     ROBERT MICHAEL HARRINGTON
+     WILLIAM GERALD HARRISON, JR.
+     TOD CLARK HARTUNG
+     ROBERT S. HARWARD
+     CHRISTOPHER ALLEN HASE
+     J.R. HASHBERGER
+     MICHAEL GORMAN HAYES
+     BARRY ALAN HAYNIE
+     R. HEATHERINGTON
+     EDWARD SCOTT HEBNER
+     ANTHONY OLIVER HEIMER
+     MARVIN HERMAN HEINZE
+     WILLIAM MILES HELLEMN
+     ROBERT HENNEGAN
+     LESLEY JEANNE PAINCH HENSON
+     MURRAY ALAN HESS
+     DEREK HANS HESSE
+     HARRISON ARTHUR HEUBLEIN
+     THOMAS JAMES HEWITT
+     ROBERT MICHAEL HIBBERT
+     JAMES E. HICKEY
+     FLORAN MICHAEL HIGGINS
+     JOHN PHILIP HIGGINS
+     WILLIAM HUNTER HILARIDES
+     JAMES LEONARD HILDRETH
+     ROBERT ANTHONY HILL
+     JAMES K. HISER
+     QUINCY M. HODGE
+     WILLIAM F. HOEFT
+     MARY LUANNE HOELLER
+     SUSAN VISCOVICH HOGAN
+     KEVIN PHILLIP HOLLAND
+     JACK WAYNE HOLT
+     JAMES HENRY HOLT, JR.
+     JOSHUA P. HOLTZMAN
+     STEPHEN E. HONAN
+     DIANA L. HOOKER
+     DANIEL P. HOOPER
+     THOMAS FRANCIS HORGAN
+     JOSEPH A. HORN
+     ROBERT ALLEN HORNBECK
+     ABIGAIL SUSAN HOWELL
+     TIMOTHY J. HOWINGTON
+     STEPHEN H. HUBER
+     JAMES D. HUCK
+     JONATHAN WAYNE HULTS
+     PAUL DEAN HUSCHER
+     WILLIAM ROBERT IGNACZAK
+     PAUL MACKY INSCH
+     DARLENE MARIE ISKRA
+     BRUCE ALAN JACKABON
+     WILLIAM HOWARD JACOBS
+     STEVEN MARTIN JACOBSMEYER
+     DOREEN ELLEN JAGODNIK
+     LANCE PETER JASITT
+     ROGER DEAN JASKOT
+     SCOTT E. JASPER
+     MARK THOMAS JASZKOWSKI
+     PETER JAUNAIS
+     CHRISTY ANN JENKINS
+     NANCY KATHLEEN JENKINS
+     STEPHEN GREY JENKINS
+     DALE A. JENSEN
+     MARK DAVID JENSEN
+     PAUL RAYMOND JENSEN
+     ANTHONY W. JILES
+     VITO WILFREDO JIMENEZ
+     STEVEN CHARLES JOACHIM
+     BRADLEY EUGENE JOHANSON
+     ARTHUR JAMES JOHNSON, JR.
+     JOSEPH ANDREW JOHNSON
+     KATHY ANN JOHNSON
+     KEVIN ROBERT JOHNSON
+     STEPHEN JAMES JOHNSON
+     DAVID TRACY JOHNSTON
+     JOHN P. JOHNSTON
+     THOMAS EDWARD JOHNSTON
+     JEFFREY CARL JOHNSTONE
+     DAVID ANTHONY JONES
+     FRANK THOMAS BRADFORD JONES
+     SANDY A. JONES
+     SCOT WILLIAM JONES
+     TERRANCE GREGORY JONES
+     BRENDA MATHIAS JORDAN
+     JODY ANN KARKOWSKI
+     GEORGE J. KAROL
+     KEVIN HARRY KASBERG
+     MARK D. KAVANAUGH
+     MARTIN JOSEPH KEANEY
+     PATRICK DANIEL KEAVNEY
+     DOUGLAS WARD KEILER
+     DEREK BRIAN KEMP
+     CATHY LYNN WILLIAMS KEMPF
+     CRAIG MARTIN KENNEDY
+     KEVIN CHRISTOPHER KETCHMARK
+     KATHLEEN FRANK KIRK
+     WALTER PAUL KIRKLAND III
+     MARK DONALD KLATT
+     FRANCIS V. KLEIN
+     CRAIG STEVEN KLEINT
+     STEVEN D. KORNATZ
+     BARBARA MARIE KOROSEC
+     WALTER MARK KREITLER
+     ROCKY DALE KROPP
+     PARKER CHARLE KULDAU II
+     JEFFREY SCOTT KUNKEL
+     T.A. KWIATKOWSKI
+     TIMOTHY DOUGLAS LABELLE
+     PAUL ANTHONY LAIRD
+     HARRY EDWARD LANDAU
+     DAVID WILLIAM LANDIS
+     JACQUELYN WALDIE LANSING
+     WILLIAM FREDERICK LARSON
+     PETER JAMES LATTA
+     JEFFREY JOSEPH LAUFF
+     JOHN EDWIN LAUGHLIN
+     S.J. LAUKAITIS
+     FRANK A. LAURIA
+     WENDY B. LAWRENCE
+     ERIC ALLISON LEFRANCOIS
+     JOHN CHRISTOPHER LEGG
+     WANDA FAYE LEONARD
+     RICHARD A. LEPPER
+     WILLIAM KEVIN LESCHER
+     CRAIG DOUGLAS LESHER
+     JERRY WILLIAM LEUGERS
+     DAVID ASHTON LEWELLYN
+     LEVITICUS ANDRE LEWIS
+     WARREN D. LEWIS
+     KENNETH LEROY LIGHTHIZER
+     STEVEN WILLIAM LITWILLER
+     RICHARD C. LOCKE
+     PHILIP EUGENE LOGAN
+     DONNA MARIE LOONEY
+     MICHAEL E. LOPEZALEGRIA
+     ALBERT FRANIS LORD, JR.
+     RENATA PAOLA YOCHUM LOUIE
+     DOUGLAS VANCE LOWRY
+     RONALD BENNETT LUHMANN
+     DALE A. LUMME
+     KEVIN BRIAN LYNCH
+     SUSAN ILENE JACOBMEIER LYNN
+     GEORGE BAILEY MACEWEN
+     WILLIAM A. MACHT
+     JOHN LEO MADDEN
+     DAVEN LYNN MADSEN
+     MICHAEL K. MAHON
+     EDWARD JOHN MAJEWSKI JR.
+     PHILLIP ALLEN MALEY
+     MICHAEL THOMAS MALINIAK
+     KEVIN MALONEY
+     STEPHEN CHARLES MALONEY
+     MICHAEL CHARLES MANAZIR
+     PAMELA ANN MARKIEWICZ
+     SHELLEY SHIPPY MARSHALL
+     MARK JEFFERY MARSHFIELD
+     CHARLES PATRICK MARTELLO
+     EDWARD LEE MARTIN
+     FRANK KURT MARTIN
+     WILLIAM VORESS MARTIN
+     DANNY EUGENE MASON
+     WILLIAM R. MASSIE
+     MONICA MATHERN
+     MICHAEL JOHN MATTHES
+     STEPHEN D. MATTS
+     JAMES EDWARD MAYER II
+     KELLY DEAN MCBRIDE
+     LAURENCE LEIGH MCCABE
+     THOMAS EDWARD MCCAFFREY
+     DENISE J. MCCALLACREARY
+     JAMES FRANCIS MCCARTHY
+     CHARLES ANDREW MCCAWLEY
+     JOHN M. MCCLOSKEY
+     RAY THOMAS MCCOOL
+     LESLIE J. MCCOY
+     DAVID M. MCDONALD
+     TIMOTHY SEAN MCELHANNON
+     KATHLEEN ANNE MCGRATH
+     KEVIN WILLIAM MCINTIRE
+     WILLIAM P. MCKINNEY III
+     JAMES PATRICK MCMANAMON
+     MICHAEL TIMOTHY MCMASTER
+     PAMELA JO BALLUCH MCNAUGHT
+     ROBERT ARTHUR MCNAUGHT
+     KEVIN KELLY MCNEES
+     STEVEN L. MCSHANE
+     RICHARD A. MEDLEY
+     GRACE MEHL
+     MICHAEL EDWARD MEIER
+     JAMES MICHAEL MELESKY
+     CHRISTOPHER ALLAN MELHUISH
+     VICKI SUE MERRY
+     DEAN WILLIAM MEYER
+     MICHAEL MEYER
+     KIRK ALAN MICHEALSON
+     JOHN CLARK MICKEY
+     GREGORY A. MILLER
+     JEFFREY BRETT MILLER
+     ROBERT ALLEN MIRICK
+     DENNIS ELLIS MITCHELL
+     WILLIAM MITCHELL
+     MAURICE M. MONTANA
+     ALAN ROBERT MOORE
+     MICHAEL DAVID MOORE
+     PATRICK THOMAS MOORE
+     STEVEN EMORY MOREHEAD
+     CHARLES RANDOLPH MORGAN
+     MICHAEL DAVID MORGAN
+     DANIEL JOSEPH MORGIEWICZ
+     STEPHEN MCGOVERN
+     ROBERT SCOTT MORRISON
+     VALERIE ANN MOULE
+     RICHARD H. MOYER
+     LYLE K. MUELLER
+     JEFFREY J. MUNSON
+     JAMES ALAN MURDOCH
+     DENNIS J. MURPHY
+     DINTY JOE MUSK
+     MARK ROBERT MYERS
+     NICHOLAS F. MYGAS
+     DANIEL EDWIN NAGEL
+     KENNETH PAUL NEUBAUER
+     BRIAN S. NEUNABER
+     DAVID ALBERT NEWLAND
+     GERALD F. NIES
+     WILLIAM DEAN NOBLE
+     STEPHEN A. NOTA
+     DANIEL I. NYLEN
+     RICHARD DENNIS OBRIEN
+     EDMUND WILLIAM OCALLAGHAN
+     MARTIN THEODORE OCCHI
+     ANN CATHERINE OCONNOR
+     JAMES EDWARD OCONNOR
+     JOHN BARTHOLOMEW OCONNOR
+     JOHN KEVIN OERTLING
+     ARTHUR JOHN OHANIAN
+     EDWARD CHARLES OHLSON
+     JAMES LAWRENCE OKEEFE III
+     THOMAS PATRICK OKEEFE
+     WILLIAM GERARD OKONIEWSKI
+     ROBERT EMMETT OLDANI
+     S.M. OLECHNOWICZ
+     DAVID ALLEN OLIVIER
+     BRIAN CHRISTOPHER ONEILL
+     MARY MARGARET ORBAN
+     SCOTT ALLEN OROSZ
+     ALLEN LAFOREST OSBORNE III
+     DANIEL LEE OUIMETTE
+     KATHRYN LEE KARLSON OZIMEK
+     CYNTHIA ANN PADGETT
+     WILLIAM RONALD PADGETT, JR.
+     FRANK CRAIG PANDOLFE
+     RAYMOND NMN PARA
+     LUKE RAYMOND PARENT
+     JONI LYNN PARKER
+     GARY PAUL PARSON
+     DEBRA LEE PAULSON
+     LEWIS NATHANIEL PAYTON
+     JAMES W. PENDLEY
+     SAMUEL PEREZ, JR.
+     CLIFTON EUGENE PERKINS, JR.
+     MICHAEL RIEDELL PERRY
+     WILLIMA SCOTT PERSONIUS
+     JOHN M. PERSYN
+     MATTEW TATE PETERS
+     JOHN WILLIAM PETERSON
+     JOSEPH PRESTON PETERSON
+     DAVID S. PETRI
+     GEORGE M. PETRO
+     BRIAN F. PHILIPP
+     THOMAS CARL PIELUSZCZAK
+     JOHN WILLIAM PIERCE
+     PRESTON CLAY PINSON
+     ROBERT EUGENE POTTBERG
+     JOYCE LYNN POWELL
+     ROBERT GLENN PRESLER
+     JOHN KEOUGH PRIMER
+     DOUGLAS SAMUEL PRINCE
+     FREDERIC ARNETT PRISLEY
+     BETTY JEAN PUTNAM
+     JOHN M. QUIGLEY
+     WILFRED PURISIMA QUINTONG
+     KARL ANDREW RADER
+     TERRY DAIL RAINS
+     JAMES P. RANSOM
+     MARTHA RUTH RATCHFORD
+     CLIFFORD H. RATTE, II
+     ROBERT LEE RAWLS
+     DOUGLAS S. RAY
+     MICHAEL S. REED
+     MICHAEL W. REEDY
+     CARL WILLIAM REHLING, III
+     DENNIS JOSEPH REILLY, III
+     LAWRENCE SCOTT RICE
+     WALTER JOE RICHARDSON, JR.
+     BRIAN ELLIOT RIEHM
+     JOHN WALLACE RILEY, III
+     NEIL SHERMAN RISH, JR.
+     ROBERT MICHAEL ROBINSON
+     BRIAN A. RODGERS
+     GEORGE ANGEL RODRIGUEZ
+     DAVID M. ROGERS
+     JOSEPH N. ROGERS
+     KENNETH MARTIN ROME
+     KATHLEEN MARIE RONDEAU
+     DAVID BRIAN ROOT
+     BENJAMIN FRANK ROPER
+     STEVEN MARK ROPER
+     EDWARD DALE ROSEQUIST
+     BRUCE ALLAN ROSS
+     JOHN ARTHUR ROSS
+     THOMAS M. ROSSI
+     LEAH MARIE ROUST
+     ELIZABETH ANNE ROWE
+     TIMOTHY G. RUCK
+     THORNWELL FRANK RUSH, JR.
+     JAMES EDWARD RUSSELL
+     RICHARD JOSEPH RYAN
+     TERRENCE CHRISTOPHER RYAN
+     ROBERT PETER SABO
+     RIGOBERTO SAEZORTIZ
+     ROBERT C. SAIN
+     GABRIEL R. SALAZAR
+     DEBORAH LYNN SALFER
+     COLGATE WHITEHEAD SALOMON
+     JOSEPH MICHAEL SAMPLE
+     NANCY JEFFRIES SANDERS
+     WILLIAN VITO SCARDINA, JR.
+     JAMES KENT SCHOLL
+     ROBERT JOHN SCHOPPE
+     ROBERT EDWARD SCHUETZ
+     JAY PAUL SCHWERMER
+     BRIAN CHARLES SCOTT
+     CHARLES KENNETH SCOTT, II
+     LELAND HART SEBRING, JR.
+     DAVID WAYNE SEIPEL
+     JOSEPH SENSI
+     AUGUST JOSEPH SERENO, JR.
+     JOEL BYRON SEWELL
+     DAVID G. SHAFER
+     LINDA CAROL SHAFFERVANARIA
+     JONATHAN WILLIAM SHARPE
+     JAMES EDWARD SHAY
+     MICHAEL DENNIS SHETTLE
+     MARK GREGORY SHOFNER
+     VINCIENT FRED SHORTS
+     RAYMOND ARTHUR SHRIVER
+     WILLIAM SIZEMORE
+     JOSEPH E. SKINNER
+     BRADLEY B. SMITH
+     DAVID CHARLES SMITH
+     FRED ELVIN SMITH
+     JAMES LEE SMITH
+     JUDY LENORE SMITH
+     MARK BARNARD SMITH,
+     MICHAEL K. SMITH,
+     TIMOTHY MARK SMITH,
+     VICTORIA MARIE SMITH,
+     JOHN WILLIAM SNEDEKER, JR.,
+     LYLE W. SNIDE,
+     JOHN DWAIN SNIVELY,
+     DALE ELIZABETH SNYDER,
+     MICHAEL DAVID SONNEFELD,
+     DAVID A. SORANNO,
+     THOMAS LEO SPARKS,
+     JOHN GEOFFREY SPEER,
+     JAMES M. SPENCE,
+     JOHN H. SPILLER,
+     CHERYL LYNN SPOHNHOLTZ,
+     LISA BECKMAN SQUIRE,
+     STEPHEN GEORGE SQUIRES,
+     VINCENT A SQUITIERI,
+     VICTOR ANTHONY STEINMAN,
+     CHRISTIAN MICHAEL STEINMETZ,
+     ANN F. STENCIL,
+     ROBERT RAYMOND STERLING, JR.,
+     ELIZABETH ANN STERNAMAN,
+     JAMES GERARD STEVENS,
+     SCOTT D. STEWART,
+     LINDA FAYE STJOHN,
+     RICHARD VERLAN STOCKTON,
+     THOMAS JOHN STREI, JR.,
+     STEVEN IVES STRUBLE,
+     CHRISTOPHER JOHN SULLIVAN,
+     SEAN P. SULLIVAN,
+     RICHARD DOUGLAS SUTTIE,
+     ERIC L. SWEIGARD,
+     SCOTT HARBISON SWIFT,
+     STEPHEN LEO SZYSZKA,
+     STEPHEN WILLIAM TAGARIELLO,
+     DANIEL A. TANNER III,
+     JEFFREY BENJAMIN TAUB,
+     STUART DOUGLAS TERRY,
+     DAVID M. THOMAS,
+     DOYLE E. THOMAS,
+     ROBERT LEE THOMAS, JR.,
+     HENRY MARTIN THOMPSON, JR.,
+     RONALD NEIL THOMPSON,
+     MARYLOU KATHERINE TILLOTSON,
+     MICHAEL PETER TILLOTSON,
+     GLENN STOCKTON TITLOW,
+     RICHARD DEAN TOBEY,
+     DAVID WAYNE TODD,
+     MARK C. TOMB,
+     JAMES MINNIS TREES,
+     ALBERT RICHARD TROTTER, JR.,
+     JAMES CHARLES TRUMP, JR.,
+     CARL RAY TURNER II,
+     MICHAEL J. TURNER,
+     RICHARD KIETH TURNER,
+     MICHAEL FRANCIS TUZZOLO,
+     ANNE KATHLEEN TYLER,
+     NORA WINGFIELD TYSON,
+     FRANK DAVID UNETIC, JR.,
+     CHRISTOPHER WILLIAM URBAN,
+     BARBARA FRANCES VALENTI,
+     BIENVENIDO VALERIO,
+     ANTHONY NMN VANARIA IV,
+     MARK ANTHONY VANCE,
+     GORDAN EVANS VANHOOK,
+     HANS JOSEPHUS VANOEKEL,
+     GUY LESLIE VARLAND,
+     JOHN EDWARD VESTERMAN,
+     DAVID MICHAEL VOLONINO,
+     KENNETH D. WALKER,
+     MARK HOLT WALKER,
+     SUSAN ESTHER WALTERS,
+     PETER BLAKELEY WANN,
+     DAVID ANTHONY WARAN,
+     WILLIAM FAREL WARLICK,
+     MICHAEL C. WARMBIER III,
+     DENNIS GEORGE WATSON,
+     WALTER BRUCE WATSON, JR.,
+     WILLIAM T. WEBBER,
+     JAMES M. WECKERLY,
+     RONALD EUGENE WEISBROOK,
+     TALA JEAN WELCH,
+     ROGER DALE WELLS,
+     CHRISTOPHER BRIAN WELSH,
+     BETSY ANN WEMYSS,
+     PATRICIA MURPHY WENGER,
+     SUZANNE KATRINKA SCHEL WEST,
+     DARREL EDWIN WESTBROOK III,
+     CHRISTY JANE WHEELER,
+     KENNETH NMN WHEELER,
+     TERRY SCOTT WICHERT,
+     PETER IGOR WIKUL,
+     BRIAN WILD,
+     JAY COLVARD, WILKINSON,
+     MARY EDITH WILLIAMS,
+     NORMAN LEROY WILLIAMS,
+     CRAIG A. WILSON,
+     DAVID CABLES WILSON,
+     JOHN GILBERT RANDAL WILSON,
+     JOHN PHILIP WILSON,
+     ROBERT JOHN WILSON,
+     ROBERT SCOTT WINNEG,
+     JAMES EDGAR WISE II,
+     RANDALL JOSEPH WITTRY,
+     ROBERT LEE WOHLSCHLEGEL,
+     RAYMOND WARREN WOLBER,
+     BRIAN PHILIPS WOOD,
+     JOHN STEVEN WOOD,
+     JIMMY CLIFFORD WOODARD,
+     DARLENE R. WOODHARVEY,
+     SUSAN ELAINE, WOODWARD,
+     MARK S. WOOLLEY,
+     JAPHET POTENT WOOLSTON,
+     WALTER JAMES WRIGHT,
+     SAMUEL RADCLIFFE WRIGLEY,
+     HAROLD DAVID WUNDER,
+     JAMES RALSTON WYLLY,
+     NATALIE KWAI S. YOUNGARANITA,
+     SARA ANNE ZAK,
+     JEFFREY N. ZERBE,
+     MICHAEL A. ZIESER,
+  
+
+  
+
+
+
+                       engineering duty officers
+
+                            To be commander
+
+     jonathan dwight barnes
+     david wayne bella
+     Robert e.l. bond
+     Joseph matthew bradley
+     michael p. butler
+     christopher wheeler cable
+     erik n. christensen
+     michael thomas coleman, sr.
+     james c. davis
+     kevin james delaney
+     janine vettese england
+     joseph m. fallone
+     timothy vincent flynn iii
+     kevin patrick gannon
+     michael andrew gomori
+     frank e. hudik
+     robert a. klocek
+     judson lewis knecht
+     daniel larue knight
+     robby l. knight
+     david l. krueger
+     john edwin lotshaw
+     mary ellen martin
+     stephen edward martin
+     william thomas mccoy
+     edward thomas meree
+     todd jay peltzer
+     daniel joseph peters
+     patrick jean regis
+     mark joseph ringlein
+     benjamin wakula sanchez
+     sean j. stackley
+     danny ray stevenson
+     charles p. sumner
+     james carlos tertocha
+     robert j. voigt
+     Jay w. wallin
+     charles joseph young, jr.
+  
+
+
+
+           aerospace engineering duty officers (engineering)
+
+                            To be commander
+
+     george s. brown
+     jerome l. budnick
+     david paul davidson, jr.
+     tinamarie dercole
+     douglas randolph garrett
+     daniel hilary gildea
+     mark j. gonzalez
+     james lee gosnell
+     richard caldwell harned
+     david eric lancaster
+     david lee lashbrook
+     harry f. molyneux
+     john charles o'connor
+     robert reuben oxborrow
+     david b. porter
+     steven clifford rathmanner
+     richard michael rowan
+     dennis ray sorensen
+     jeffrey john stenzoski
+     robert brian stoney
+     jimmy dale walker
+     richard clark wooldrige
+     dean dale worthingstun
+       
+  
+
+
+
+           aerospace engineering duty officers (maintenance)
+
+                            To be commander
+
+     ronald timothy allen
+     wayne dennis allums
+     cecil edward baker
+     chris joseph borer
+     dennis karl christensen
+     robert eric dean
+     ruth ann forrest
+     mark edward gabriel
+     michael wharton mellor
+     terry lynn merritt
+     kenneth miles reynolds
+     larry john tortorich
+     peter joseph walter
+     steven michael williams
+     robert carlton wolfe
+       
+  
+
+
+
+                         aviation duty officers
+
+                            To be commander
+
+     russell m. chang
+     gary edward lemming
+     thomas mcculley
+     clayton august umbach iii
+  
+
+
+
+                   special duty officers (cryptology)
+
+                            To be commander
+
+     sandra kay brooks
+     joseph bruce calomeni
+     charles robert erber
+     martin roy greene
+     richard karl johnston
+     alfred ledesma
+     richard scott libby
+     patricia ann mcnally
+     david edgar meadows
+     stephen edward paluszek
+     christopher l. parente
+     francis edward sablan
+     kevin powell seavey
+     joanne sexton
+  
+
+
+
+                  special duty officers (intelligence)
+
+                            To be commander
+
+     EUGENE ADKINS, JR.
+     CHARLES ROBERT ARMSTRONG
+     STEVEN BURNETT ASHBY
+     WAYNE LYLE BUNG
+     STEVEN R. CAREY
+     CHARLES JOSEPH CARSON, JR.
+     SUSAN M. CHIARAVALLE
+     NANCY KATHLEEN CLARK
+     THOMAS CLARK COOL
+     SAMUEL J. COX
+     WILLIAM ALAN ELDARD
+     JAMES RICHARD EVERETT III
+     GREGORY FRANK GALLARDO
+     FRANCIS MAX GUTIERREZ, JR.
+     JOHN DAVID HEARING
+     ALICE MOBLEY JACOBSON
+     WILLIAM JOSEPH KLAUBERG, JR.
+     LENDALL S. KNIGHT
+     LEONARD WALTER MCKAY
+     JOHN HOWLETTE MOOT
+     FREDERICK NATHAN MORGAN
+     SANTIAGO RICARDO NEVILLE
+     DONALD ANDREW OLIVIER, JR.
+     RICHARD JAMES PERA
+     TERESA WILLIAMS ROBERTS
+     JOHN ANTHONY SCALI
+     GARY RAY SCHAFFER
+     SCOTT MCKINLEY SHUMAN
+     STEPHEN ERIC SMITH
+     MARK EVERETT STILLE
+     DARRELL GENE USSERY
+     LINDA JOAN VETTER
+     STEPHEN MARK VETTER
+     MARK ANTHONY YONCHAK
+     CHARLES ZINGLER
+     VIVIAN INGRI ZUMSTEIN
+
+
+                 special duty officers (public affairs)
+
+                            To be commander
+
+     JOHN MICHAEL ANDREWS
+     MICHAEL E. BRADY
+     DAVID BRADLEY KNOX
+     TERRY LEE MCCREARY
+     BRUCE EDWARD WILLIAMS
+
+
+                  special duty officers (oceanography)
+
+                            To be commander
+
+     MICHAEL ROBERT CLENDENING
+     DEBRA MARSHALL FORD
+     PETER WILLIAM FURZE
+     FRANK WILLIAM GARCIA, JR.
+     JOHN LOREN HEISHMAN
+     DAVID WILLIAM JONES
+     JAMES HOYT KORCAL
+     MICHAEL ERNEST KREYENHAGEN
+     DAVID HILTON MCCARREN
+     PHILIP G. RENAUD
+     RANDY JAMES SCANLON
+     KATHY ANN SHIELD
+     DANIEL JOSEPH SOPER
+     MICHAEL RAMSEY STEWARD
+     CHARLES MUNSON WHITE
+     BRIAN JAMES WILLIAMS
+
+
+                      limited duty officers (line)
+
+                            To be commander
+
+     WILLIAM GEORGE BAILEY
+     TEDD LEWIS BARNETT
+     DAVID A. BELTON
+     RICHARD HAROLD BERARDI
+     DANIEL G. BROWN
+     WILLIAM GLENN BROWN
+     HARRY DOUGLAS BRYANT
+     GARY WAYNE BUMGARNER
+     ROLAND L. CANTIN
+     WALLACE R. CASTO
+     SHERWOOD E. COOK
+     JOHN ALAN COPES
+     JAMES PAUL DELANEY
+     BRENT ALAN FERNALD
+     ANTHONY J. GONZALES
+     RICHARD WILLIAM HERMAN
+     JOHN F. HOWE
+     STEPHEN GEORGE HYMAN
+     RICK MARTIN JONES
+     KENNETH EDWARD KARR
+     DAVID WILLIAM KELCH
+     WILLIAM DAINE KING
+     DWIGHT EDWARD LAMONT
+     HARBOROUGH IRWIN LILL III
+     PATRICK MICHAEL MCCARTHY
+     GEORGE GAMEL MCELVEEN, JR.
+     GERALD DOISS MEDDERS
+     RICHARD HERBERT MURPHY
+     JAMES PATRICK NEARY
+     CHARLES DANIEL PENNINGTON
+     HENRY D. POMERANZ
+     DONALD RAY PRICE
+     LAURENCE WILLIAM REHER III
+     RAYMOND SCOTT
+     MIKE THOMPSON
+     RICHARD HAROLD WATKINS
+     PAUL D. WILLIAMSON
+     WILLIAM L. WILSON
+     WILLIAM DALE ZBAEREN
+     WILLIAM L. WILSON
+
+                          ____________________
+```
