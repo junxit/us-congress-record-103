@@ -1,0 +1,55 @@
+---
+granule: CREC-1994-01-25-pt1-PgE6
+date: 1994-01-25
+edition: CREC
+section: EXTENSIONS
+page: E
+citation: 140 Cong. Rec. E
+---
+
+# TRIBUTE TO JAMES AND IMOGENE HARRIS
+
+**Speaking:** Visclosky, Peter J. (V000108) [D-IN]
+
+```
+[Congressional Record: January 25, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                  TRIBUTE TO JAMES AND IMOGENE HARRIS
+
+                                 ______
+
+
+                        HON. PETER J. VISCLOSKY
+
+                               of indiana
+
+                    in the house of representatives
+
+                       Tuesday, January 25, 1994
+
+  Mr. VISCLOSKY. Mr. Speaker, it is my distinct honor to recognize 
+James and Imogene Harris.
+  James and Imogene were honored at the annual Martin Luther King, Jr. 
+breakfast sponsored by the Gary Frontiers Service Club on Monday, 
+January 17, 1994. The couple received the highest distinction bestowed 
+by the club, the Drum Major Award.
+  The Drum Major Award is awarded to members of the community who have 
+committed themselves to the elimination of inequality, prejudice, and 
+racism. Recipients of this award have demonstrated long-term dedication 
+to their community by assisting in the eradication of injustice.
+  Leaders in the African-American community, James and Imogene Harris 
+have been providing Gary with 32 years of uninterrupted circulation of 
+the Gary Info News. A weekly publication, the Info has been 
+instrumental in upholding Gary's issues, affirmative action concerns, 
+and equal opportunity affairs. James and Imogene have dedicated their 
+lives to the betterment of Gary's African-American community, and have 
+shared their publication with Gary to unite its citizens against 
+injustice, inequality, prejudice, and racism.
+  I would like to take this opportunity to commend James and Imogene 
+Harris in their 30-year commitment to instill equality and justice 
+throughout the city of Gary, IN.
+
+                          ____________________
+```
