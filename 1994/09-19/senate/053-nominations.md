@@ -1,0 +1,1845 @@
+---
+granule: CREC-1994-09-19-pt1-PgS57
+date: 1994-09-19
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# NOMINATIONS
+
+```
+[Congressional Record: September 19, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                              NOMINATIONS
+
+  Executive nominations received by the Secretary of the Senate 
+September 15, 1994, under authority of the order of the Senate of 
+January 5, 1993:
+
+
+                             the judiciary
+
+       Maurice B. Foley, of California, to be a Judge of the U.S. 
+     Tax Court for a term expiring 15 years after he takes office, 
+     vice Charles E. Clapp II, retired.
+       Juan F. Vasquez, of Texas, to be a Judge of the U.S. Tax 
+     Court for a term expiring 15 years after he takes office, 
+     vice Perry Shields, retired.
+                                  ____
+
+  Executive nomination received by the Secretary of the Senate 
+September 16, 1994, under authority of the order of the Senate of 
+January 5, 1993:
+
+
+                   executive office of the president
+
+       Alice M. Rivlin, of the District of Columbia, to be 
+     Director of the Office of Management and Budget, vice Leon E. 
+     Panetta.
+                                  ____
+
+  Executive nominations received by the Senate September 19, 1994:
+
+
+                             the judiciary
+
+       Sandra L. Lynch, of Massachusetts, to be U.S. Circuit Judge 
+     for the First Circuit, vice Stephen G. Breyer, elevated.
+
+
+                         department of justice
+
+       Charles R. Wilson, of Florida, to be U.S. Attorney for the 
+     Middle District of Florida for the term of 4 years, vice 
+     Larry Herbert Colleton, resigned.
+
+
+                     national museum services board
+
+       Robert G. Breunig, of Arizona, to be a Member of the 
+     National Museum Services Board for a term expiring December 
+     6, 1994. (Reappointment.)
+       Kinshasha Holman Conwill, of New York, to be a Member of 
+     the National Museum Services Board for a term expiring 
+     December 6, 1997, vice Willard L. Boyd, term expired.
+       Ayse Manyas Kenmore, of Florida, to be a Member of the 
+     National Museum Services Board for a term expiring December 
+     6, 1995, vice Daphne Wood Murray, resigned.
+       Nancy Marsiglia, of Louisiana, to be a Member of the 
+     National Museum Services Board for a term expiring December 
+     6, 1998, vice George S. Rosborough, Jr., term expired.
+       Arthur Rosenblatt, of New York, to be a Member of the 
+     National Museum Services Board for a term expiring December 
+     6, 1997, vice Richard J. Schwartz, term expired.
+       Townsend Wolfe, of Arkansas, to be a Member of the National 
+     Museum Services Board for a term expiring December 6, 1995, 
+     vice Rosemary G. McMillan, term expired.
+
+
+                national institute of building sciences
+
+       H. Terry Rasco, of Arkansas, to be a Member of the Board of 
+     Directors of the National Institute for Building Sciences for 
+     a term expiring September 7, 1997, vice Arnold L. Steinberg, 
+     term expired.
+       Christine M. Warnke, of the District of Columbia, to be a 
+     Member of the Board of Directors of the National Institute 
+     for Building Sciences for a term expiring September 7, 1995, 
+     vice Louis L. Guy, Jr., resigned.
+
+
+                     national council on disability
+
+       Audrey L. McCrimon, of Illinois, to be Member of the 
+     National Council on Disability for a term expiring September 
+     17, 1997, vice Robert S. Mueller, term expired.
+
+
+                 civil liberties public education fund
+
+       Susan Hayase, of California, to be Member of the Board of 
+     Directors of the Civil Liberties Public Education Fund for a 
+     term of 3 years. (New Position.)
+
+
+               securities investor protection corporation
+
+       James Clifford Hudson, of Oklahoma, to be a Director of the 
+     Securities Investor Protection Corporation for a term 
+     expiring December 31, 1994, vice James G. Sterns, term 
+     expired.
+       James Clifford Hudson, of Oklahoma, to be a Director of the 
+     Securities Investor Protection Corporation for a term 
+     expiring December 31, 1997. (Reappointment.)
+
+
+                              in the navy
+
+       The following-named Lieutenants in the line of the navy for 
+     promotion to the permanent grade of Lieutenant Commander, 
+     pursuant to Title 10, United States Code, Section 624, 
+     subject to qualifications therefore as provided by law:
+
+
+                       unrestricted line officers
+
+                       To be lieutenant commander
+
+Aakre, Thor D., 000-00-0000
+Abbott, Christopher E., 000-00-0000
+Abell, David D., 000-00-0000
+Abresch, Richard J., 000-00-0000
+Adams, Steven E., 000-00-0000
+Adams, Thomas L., III, 000-00-0000
+Ahlgrim, Michael W., 000-00-0000
+Alabata, Al A.O., 000-00-0000
+Albert, David J., 000-00-0000
+Alberto, Donald P., 000-00-0000
+Albright, Matt NMN., 000-00-0000
+Alford, Andrew NMN., 000-00-0000
+Alkov, Steven L., 000-00-0000
+Allen, Kenneth R., 000-00-0000
+Allen, Mark W., 000-00-0000
+Allen, Robert D., 000-00-0000
+Allen-Kendrick, Joyce A., 000-00-0000
+Allman, James M., 000-00-0000
+Andersen, Gene R., 000-00-0000
+Andersen, Kevin R., 000-00-0000
+Anderson, Daniel S., 000-00-0000
+Andreas, Mark J., 000-00-0000
+Andrews, Margaret A., 000-00-0000
+Andrews, Stephen J., 000-00-0000
+Andrus, Edward Y., 000-00-0000
+Angelino, Henry D., Jr., 000-00-0000
+Apollo, Rolando A., 000-00-0000
+Applegate, Carolyn L., 000-00-0000
+Arend, James D., 000-00-0000
+Armbruster, Robert R., 000-00-0000
+Armistead, Edwin L., 000-00-0000
+Armstrong, James S., 000-00-0000
+Armstrong, Mark A., 000-00-0000
+Armstrong, Robert B., 000-00-0000
+Arnold, Douglas E., 000-00-0000
+Arnold, John F., Jr., 000-00-0000
+Ashe, John D., 000-00-0000
+Asjes, David C., 000-00-0000
+Assel, Allan J., Jr., 000-00-0000
+Austin-Stanley, Tracy J., 000-00-0000
+Avila, Matthew R., 000-00-0000
+Badzik, David V., 000-00-0000
+Baker, Mark A., 000-00-0000
+Balan, Gavin W., 000-00-0000
+Barfield, Lisa C., 000-00-0000
+Barr, Harold E., 000-00-0000
+Barrett, Kenneth J., Jr., 000-00-0000
+Barrett, William P.M., 000-00-0000
+Barrickman, Darryl L., 000-00-0000
+Barrow, Richard D., II, 000-00-0000
+Bartholomew, Timothy F., 000-00-0000
+Barwis, Robert C., 000-00-0000
+Batchelder, Bret C., 000-00-0000
+Bates, John S., 000-00-0000
+Bauknecht, Joseph A., 000-00-0000
+Bay, Jeffrey L., 000-00-0000
+Beatty, James C., 000-00-0000
+Beaver, Matthew S., 000-00-0000
+Beckler, Eric M., 000-00-0000
+Beel, Joseph J., 000-00-0000
+Belanger, Jon C., 000-00-0000
+Belczyk, Karl S., 000-00-0000
+Bell, Harold A., 000-00-0000
+Bellamy, Latoya NMN., 000-00-0000
+Bellantoni, Paul N., 000-00-0000
+Belt, Warren, C., 000-00-0000
+Berg, Timothy L., 000-00-0000
+Bernardi, Jeffrey T., 000-00-0000
+Bertrand, Robert W., 000-00-0000
+Bethge, Thomas M., 000-00-0000
+Bianchi, Kevin A., 000-00-0000
+Bierbrauer, Andreas P., 000-00-0000
+BIles, James B., 000-00-0000
+Biron, Erica T., 000-00-0000
+Bitzer, Timothy B., 000-00-0000
+Blackketter, Alan W., 000-00-0000
+Blaisdell, Steven H., 000-00-0000
+Blake, Cheryl D., 000-00-0000
+Blakeley, John W., 000-00-0000
+Blazer, William E., 000-00-0000
+Blount, James R., 000-00-0000
+Boal, David D., 000-00-0000
+Boehm, Laura A., 000-00-0000
+Boex, Anthony R., 000-00-0000
+Bolivar, Babette R., 000-00-0000
+Bonner, Michael L., 000-00-0000
+Bonomo, James A., 000-00-0000
+Borrosh, Michael A., 000-00-0000
+Boston, Brent L., 000-00-0000
+Bottelson, Jay D., 000-00-0000
+Bourbeau, Thomas F., 000-00-0000
+Boveri, Joseph A., 000-00-0000
+Bovington, Samuel R., 000-00-0000
+Bowers, Earl C., 000-00-0000
+Bowhers, Vincent C., Jr., 000-00-0000
+Bowie, John B., 000-00-0000
+Boxall, Ronald A., 000-00-0000
+Boykin, Timothy R., 000-00-0000
+Bradfield, Paul J., 000-00-0000
+Bradford, William J., 000-00-0000
+Bradley, Brunhilde K., 000-00-0000
+Brand, Gregory R., 000-00-0000
+Brandenburg, Glenn R., 000-00-0000
+Brault, Laurell A., 000-00-0000
+Braunschweig, John J., 000-00-0000
+Brawford, John L., 000-00-0000
+Brenton, Kevin R., 000-00-0000
+Brese, Robert F., 000-00-0000
+Brightwell, Jeffrey J., 000-00-0000
+Bristow, Steven G., 000-00-0000
+Brodeur, David L., 000-00-0000
+Brooks, Dennis M., 000-00-0000
+Brooks, Diane C., 000-00-0000
+Brown, Paul C., 000-00-0000
+Brown, Richard A., 000-00-0000
+Brown, Robert C., 000-00-0000
+Brownell, Mark J., 000-00-0000
+Brownsweiger, Jeffrey S., 000-00-0000
+Brownwahler, Yvette C., 000-00-0000
+Brubaker, Steven H., 000-00-0000
+Bruno, Anthony I., 000-00-0000
+Bryant, Edward G., 000-00-0000
+Bryant, John L., Jr., 000-00-0000
+Buckley, James F., II, 000-00-0000
+Buckley, Patrick E., 000-00-0000
+Buduo, Andrew I., 000-00-0000
+Bugelli, Frank NMN., 000-00-0000
+Burda, Robert E., Jr., 000-00-0000
+Burke, Brian T., 000-00-0000
+Burke, Robert P., 000-00-0000
+Burke, Thom W., 000-00-0000
+Burns, Daniel P., 000-00-0000
+Burns, Joseph P., 000-00-0000
+Burton, Douglas R., 000-00-0000
+Buswell, Bradley I., 000-00-0000
+Butler, Otis E., III, 000-00-0000
+Butler, Patrick W., 000-00-0000
+Butterfield, Andrew A., 000-00-0000
+Buttram, David L., 000-00-0000
+Buxton, Winslow H., III, 000-00-0000
+Bynum, James S., 000-00-0000
+Byrd, Valerie R., 000-00-0000
+Byrne, Eric B., 000-00-0000
+Byron, Robert M., 000-00-0000
+Cade, Steven C., 000-00-0000
+Cady, Michael P., 000-00-0000
+Calabrese, Thomas M., 000-00-0000
+Calderala, Dan G., 000-00-0000
+Caldwell, David M., 000-00-0000
+Cali, Shawn M., 000-00-0000
+Callahan, Shawn M., 000-00-0000
+Camara, John A., 000-00-0000
+Campbell, David L., 000-00-0000
+Campbell, Edward J., 000-00-0000
+Campbell, Eric M., 000-00-0000
+Campbell, Kolin K., 000-00-0000
+Campbell, Scott R., 000-00-0000
+Campbell, Tammy P., 000-00-0000
+Canady, Kerry B., 000-00-0000
+Capria, Frederick J., 000-00-0000
+Caraveo, Bryan T., 000-00-0000
+Cares, Jeffrey R., 000-00-0000
+Carey, Robert H., Jr., 000-00-0000
+Carlson, Joseph T., 000-00-0000
+Carlson, Stephen F., 000-00-0000
+Carpenter, Bradley A., 000-00-0000
+Carpenter, Dennis E., 000-00-0000
+Carroll, John B., 000-00-0000
+Carroll, Steven R., 000-00-0000
+CARTER, KEFF M., 000-00-0000
+CARTER, MATTHEW J., 000-00-0000
+CASEY, KEVIN C., 000-00-0000
+CASIMES, ALEXANDER T., 000-00-0000
+CASSIDY, DOUGLAS P., 000-00-0000
+CASTANEDA, WILLIAM G., 000-00-0000
+CASTILLO, HENRY A., JR., 000-00-0000
+CASTLETON, JAMES R., 000-00-0000
+CEDRUN, MARK E., 000-00-0000
+CERAOLO, SALVATORE J., 000-00-0000
+CHACHULA, SANDRA K., 000-00-0000
+CHACHULA, STEPHEN D., 000-00-0000
+CHAFFEE, COLIN B., 000-00-0000
+CHAKER, ALBERT E., 000-00-0000
+CHAMBERS, CHRISTOPHER S., 000-00-0000
+CHAMBERS, KENNETH M., 000-00-0000
+CHAMBERS, WALLACE L., JR., 000-00-0000
+CHANG, DAVID C., 000-00-0000
+CHASE, BRUCE E., 000-00-0000
+CHASE, DEAN M., 000-00-0000
+CHAVES, MARK A., 000-00-0000
+CHENEY, DAVID P., 000-00-0000
+CHIPKEVICH, MARY B.A., 000-00-0000
+CHUBB, WILLIAM M., 000-00-0000
+CHUN, CHRISTOPHER C., 000-00-0000
+CHURBUCK, JAMES F., JR., 000-00-0000
+CIARDELLO, MICHAEL J., 000-00-0000
+CLAGETT, JOHN R., 000-00-0000
+CLARK, GARD J., 000-00-0000
+CLARK, ROBERT E., II 000-00-0000
+CLARK, RODNEY A., 000-00-0000
+CLARKE, MICHAEL J., 000-00-0000
+CLARKE, PETER J., 000-00-0000
+CLARKSON, JEFFFREY D., 000-00-0000
+CLAWSON, DAVID A., II 000-00-0000
+CLEARY, PATRICK R., III 000-00-0000
+CLINCH, KEVIN D., 000-00-0000
+CLINE, ANNE E., 000-00-0000
+CLINE, DONALD L., II 000-00-0000
+COCEANO, BARRY W., 000-00-0000
+COCKER, BRUCE J., 000-00-0000
+COLBY, MARK D., 000-00-0000
+COLEMAN, WARRDEN A., III 000-00-0000
+COLLINS, DONALD E., 000-00-0000
+COLLOM, KURT S., 000-00-0000
+CONDON, WILLIAM M., 000-00-0000
+CONERLY, SOPHIA G., 000-00-0000
+CONKEY, DOUGLAS P., 000-00-0000
+CONLIN, ALAN J., 000-00-0000
+CONN, ROSEMARIE J., 000-00-0000
+CONWAY, ROBERT E., 000-00-0000
+COOK, ALLAN A., 000-00-0000
+COOK, SHAWN E., 000-00-0000
+COONCE, THOMAS R., 000-00-0000
+COONEY, JAMES M., 000-00-0000
+COOPER, CHRISTOPHER R., 000-00-0000
+CORDEIRO, MARK S., 000-00-0000
+CORDLE, JOHN P., 000-00-0000
+CORRIGAN, MICHAEL J., 000-00-0000
+COUCH, MARK A., 000-00-0000
+COURY, MICHAEL J., 000-00-0000
+COX, JAMES T., 000-00-0000
+COX, RICHARD B., 000-00-0000
+COYLE, FRANCIS G., 000-00-0000
+COZAD, KYLE J., 000-00-0000
+CRABTREE, GREGORY W., 000-00-0000
+CREEVY, LAWRENCE E., 000-00-0000
+CREIGHTON, CRAIG C., 000-00-0000
+CRISWELL, PHILIP W., JR., 000-00-0000
+CRITES, RANDY B., 000-00-0000
+CROW, LOWELL D., 000-00-0000
+CUDNOHUFSKY, AARON L., 000-00-0000
+CULLEN, GLEN T., 000-00-0000
+CUMMINS, CORY S., 000-00-0000
+CUNHA, JAMES J., 000-00-0000
+CUNY, BRYAN L., 000-00-0000
+CURTIS, ADAM J., 000-00-0000
+CUTHBERT, DOUGLAS L., 000-00-0000
+CUTHBERT, STEFANI G., 000-00-0000
+DAHLIN, MICHAEL W., 000-00-0000
+DALLMAN, PETER K., 000-00-0000
+DALY, WILLIAM J., 000-00-0000
+DANHAKL, JAMES R., 000-00-0000
+DANIEL, ALBERT C., JR., 000-00-0000
+DASELER, TIMOTHY N., 000-00-0000
+DAVENPORT, TYLER F., 000-00-0000
+DAVID, GERRAL K., 000-00-0000
+DAVIDSON, MICHAEL C., 000-00-0000
+DAVIS, ALVIN NMN, 000-00-0000
+DAVIS, BARBARA J., 000-00-0000
+DAVIS, JEFFREY A., 000-00-0000
+DAVIS, MAXIE Y., 000-00-0000
+DAVIS, SUSAN C.B., 000-00-0000
+DAVIS, TAMMY L., 000-00-0000
+DEAKIN, KENNETH A., 000-00-0000
+DEFTY, EDWARD R., 000-00-0000
+deghetto, todd h., 000-00-0000
+degozzaldi, sally nmn, 000-00-0000
+deitz, thomas d., 000-00-0000
+denison, daniel e., 000-00-0000
+denman, charles c., ii, 000-00-0000
+denneny, douglas j., 000-00-0000
+dennis, mark v., 000-00-0000
+denno, marc w., 000-00-0000
+depman, david m., 000-00-0000
+derbes, henry d., ii, 000-00-0000
+deryck, christopher l., 000-00-0000
+desmet, paul f., 000-00-0000
+devine, floyd l., 000-00-0000
+dishman, robert b., 000-00-0000
+disney, kathleen d., 000-00-0000
+dditri, thomas a., 000-00-0000
+dodson, jeffrey a., 000-00-0000
+domingo, steven j., 000-00-0000
+donovan, daniel m., 000-00-0000
+dooris, william j., 000-00-0000
+dornan, donald d., jr., 000-00-0000
+dorrell, russell e., iii, 000-00-0000
+doster, daniel g., 000-00-0000
+dougherty, julie a., 000-00-0000
+downing, thomas m., 000-00-0000
+doyle, glenn c., 000-00-0000
+dua, tito p., 000-00-0000
+dubois, bruce a., 000-00-0000
+dueker, scott d., 000-00-0000
+duncan, robert s., 000-00-0000
+duncan-white, delores a., 000-00-0000
+dunn, patrick nmn, 000-00-0000
+dvorak, mark j., 000-00-0000
+eagle, christopher j., 000-00-0000
+earl, robert c., 000-00-0000
+eason, richard j., 000-00-0000
+eastwood, david f., 000-00-0000
+ebbert, mary a., 000-00-0000
+ebbs, william a., 000-00-0000
+edington, debora nmn, 000-00-0000
+edwards, gene h., iii, 000-00-0000
+edwards, karen j., 000-00-0000
+egbert, larry m., 000-00-0000
+eggers, curtis s., 000-00-0000
+eggleston, john c., 000-00-0000
+ehr, phillip c., 000-00-0000
+ehrbar, jeffrey g., 000-00-0000
+eichman, bruce w., 000-00-0000
+eidsmoe, robert d., 000-00-0000
+eidson, brian e., 000-00-0000
+eilertsen, bradley j., 000-00-0000
+einhorn, john k., 000-00-0000
+elmer, kimberly f., 000-00-0000
+elmore, kevin r., 000-00-0000
+emblidge, john m., 000-00-0000
+emero, bruce d., 000-00-0000
+emmert, charles g., 000-00-0000
+english, gary e., 000-00-0000
+enkema, philip b., jr., 000-00-0000
+erb, nancy a., 000-00-0000
+espe, benito l., jr., 000-00-0000
+estornell, vincent r., 000-00-0000
+evans, john a., 000-00-0000
+evans, luis m., 000-00-0000
+evans, todd w., 000-00-0000
+even, sondra a., 000-00-0000
+eves, matthew m., 000-00-0000
+ewing, scott a., 000-00-0000
+fadok, george t., jr., 000-00-0000
+fanning, joseph j., 000-00-0000
+farrell, richard e., 000-00-0000
+fasanello, thomas j., jr., 000-00-0000
+fatigate, john p., 000-00-0000
+fazzone, brian a., 000-00-0000
+fellowes, john h., jr., 000-00-0000
+ferguson, christopher j., 000-00-0000
+ferguson, leslie c., 000-00-0000
+ferraris, napoleon s., 000-00-0000
+feten, david j., 000-00-0000
+fidrych, anthony m., 000-00-0000
+fierro, jesus j., jr., 000-00-0000
+figurres, john m., 000-00-0000
+fisher, david t., 000-00-0000
+fitzgerald, david s., 000-00-0000
+fitzgerald, william a., 000-00-0000
+fitzpatrick, michael j., 000-00-0000
+fitzpatrick, norman g., 000-00-0000
+flaggs, moreatha y., 000-00-0000
+flint, larry n., 000-00-0000
+flood, christopher h., 000-00-0000
+flores, edward a., 000-00-0000
+foldy, mark s., jr., 000-00-0000
+foley, stephen r., 000-00-0000
+fontes, kevin a., 000-00-0000
+fraenkel, richard j., 000-00-0000
+frake, william j., iv, 000-00-0000
+FRANKLIN, JEFFREY A., 000-00-0000
+FREDERICK, JEFFREY D., 000-00-0000
+FREDRICKSON, KENT A., 000-00-0000
+FREEMAN, NICHOLAS E., 000-00-0000
+FRIE, DAVID J., JR., 000-00-0000
+FRIEDMAN, PETER D., 000-00-0000
+FRISTACHI, JOHN C. P., 000-00-0000
+FRITTS, DONALD C., JR., 000-00-0000
+FRY, RONALD N., JR., 000-00-0000
+FUHRMANN, DAVID J., 000-00-0000
+FULTON, WILLIAM J., 000-00-0000
+FUNK, JOHN W., 000-00-0000
+FUQUA, STEVEN J., 000-00-0000
+FURRH, JERRY L., 000-00-0000
+GAGE, LARRY S., 000-00-0000
+GAIANI, ANTHONY E., 000-00-0000
+GALLAGHER, DENNIS M., 000-00-0000
+GALLAGHER, LAWRENCE C., 000-00-0000
+GALLETTA, ANTHONY M., 000-00-0000
+GALLREIN, EDWARD G., III., 000-00-0000
+GALSGAARD, ALLAN G., 000-00-0000
+GANNON, MICHAEL W., 000-00-0000
+GARBELOTTI, CARL J., 000-00-0000
+GARBESI, VINTON G., 000-00-0000
+GARDNER, ERIC W., 000-00-0000
+GARDNER, PATRICK, D., 000-00-0000
+GARMAN, MATTHEW S., 000-00-0000
+GASSIE, EDWARD W., JR., 000-00-0000
+GAUTHIER, JOHN S., 000-00-0000
+GEBERT, STEPHEN E., 000-00-0000
+GEBERTH, ROY J., 000-00-0000
+GEISEN, JOHN P., 000-00-0000
+GELINNE, JOHN P., 000-00-0000
+GELLENE, DAVID J., 000-00-0000
+GENOBLE, BRETT J., 000-00-0000
+GIBB, LAURIE J., 000-00-0000
+GIBSON, CHARLES M., III, 000-00-0000
+GIGLIOTTI, WILLIAM C., 000-00-0000
+GIL, LEOPOLDO D., JR., 000-00-0000
+GILBERT, JEFFREY L., 000-00-0000
+GILDAY, MICHAEL M., 000-00-0000
+GILDERSLEEVE, JOSEPH S., 000-00-0000
+GILLEON, GARY R., 000-00-0000
+GILLIGAN, WILLIAM T., 000-00-0000
+GINDER, SCOTT R., 000-00-0000
+GINTER, MICHAEL J., 000-00-0000
+GLACKIN, BRIAN J., 000-00-0000
+GLAESER, KARL E., 000-00-0000
+GLASER, TAMMY L., 000-00-0000
+GOMPF, CHARLES P., 000-00-0000
+GONDA, PHILIP A., 000-00-0000
+GOODLY, BAXTER A., 000-00-0000
+GOODROW, BRIAN D., 000-00-0000
+GORDON, SCOTT S., 000-00-0000
+GORMAN, DAVID, P., 000-00-0000
+GORRELL, KENNETH E., 000-00-0000
+GOSSETT, DEAN H., 000-00-0000
+GOTTFRIED, RUSSELL NMN, 000-00-0000
+GOUGH, MARK, J., 000-00-0000
+GRADEL, ROBERT S., 000-00-0000
+GRADY, CHRISTOPHER W., 000-00-0000
+GRAF, HOLLY A., 000-00-0000
+GRAHAM, CARL R., 000-00-0000
+GRAHAM, JEFFREY R., 000-00-0000
+GRAHAM, MICHAEL R., 000-00-0000
+GRAY, JOHN W., 000-00-0000
+GRAZIANO, THOMAS A., 000-00-0000
+GREEN, REUBEN K., 000-00-0000
+GREEN, RICHARD A., 000-00-0000
+GREEN, ROBERT E., 000-00-0000
+GREEN TIMOTHY J., 000-00-0000
+GRGAS, PAUL C., 000-00-0000
+GRIFFITHS, PETER A., 000-00-0000
+GRIMSON, JAMES M., 000-00-0000
+GROELINGER, TIMOTHY C., 000-00-0000
+GROODY, MICHAEL E., 000-00-0000
+GUERRA, LOUIS P., 000-00-0000
+GUNNING, EDWARD G., JR., 000-00-0000
+GUNSALLUS, FRANK L., III, 000-00-0000
+GUTIERREZ, ANN R., 000-00-0000
+HAAS, PAUL A., 000-00-0000
+HAAS, RUSSELL E., 000-00-0000
+HADLEY, HERBERT M., 000-00-0000
+HADLEY, ROBERT C., JR., 000-00-0000
+HAEG, TODD T., 000-00-0000
+HAFFEY, HARRIOT E., 000-00-0000
+HAHN, DAVID J., 000-00-0000
+HAHNE, DOUGLAS D., 000-00-0000
+HAIDVOGEL, ROBERT F., JR., 000-00-0000
+HAJOSY, MICHAEL F., 000-00-0000
+HALE, RICHARD J., 000-00-0000
+HALLBERG, ERIC N., 000-00-0000
+HAMMAN, JEFFERY P., 000-00-0000
+HAMRE, DARREN W., 000-00-0000
+HANDY, PATRICIA A., 000-00-0000
+HANKINS, LINDSAY R., 000-00-0000
+HANLON, PETER H., 000-00-0000
+HANNAN, MARKUS K., 000-00-0000
+HANNES, KEVIN L., 000-00-0000
+HANSEN, ROBERT C., 000-00-0000
+HARR, GENE F., 000-00-0000
+HARRINGTON, EDWARD J., 000-00-0000
+HARRINGTON, KEITH T., 000-00-0000
+HARRINGTON, WILLIAM B., JR., 000-00-0000
+HARRIS, WILLIAM C., 000-00-0000
+HART, TROY L., 000-00-0000
+HASELL, EDWARD L., 000-00-0000
+HASTINGS, BRIAN R., 000-00-0000
+HAUGEN, CHRISTIAN N., 000-00-0000
+HAUMER, MIKE A., 000-00-0000
+HAWKINS, JAMES P., 000-00-0000
+HAYES, CHRISTOPHER M., 000-00-0000
+HAYES, STEVEN D., 000-00-0000
+HAYS, KEVIN A. S., 000-00-0000
+HEARNE, JOHN H., JR., 000-00-0000
+HECKMAN, NANCY L., 000-00-0000
+HEFTI, JOHN A., 000-00-0000
+HEIN, AUGUST H., 000-00-0000
+HEINEMAN, JUDIE A., 000-00-0000
+HEINZELMAN, DWIGHT O., 000-00-0000
+HEISS, JOHN C., 000-00-0000
+HELMER, BRIAN W., 000-00-0000
+HELWIG, MICHAEL S., 000-00-0000
+HENDERSON, MARK D., 000-00-0000
+HENDERSON, ROBERT L., JR., 000-00-0000
+HENNING, MARK A., 000-00-0000
+HENRY, EDWARD L., III, 000-00-0000
+HENRY, JAMES J., IV, 000-00-0000
+HENRY, KELLY A., 000-00-0000
+HENZE, ROGER H., 000-00-0000
+HERBERT, GRETCHEN S., 000-00-0000
+HERBERT, ROGER F., JR., 000-00-0000
+HEREFORD, WANDA F., 000-00-0000
+HERMAN, DAVID J., 000-00-0000
+HERNANDEZ, ERNEST D., 000-00-0000
+HERNANDEZ, JOHN J., 000-00-0000
+HERNANDEZ, SUZAN P., 000-00-0000
+HERUTH, GREGORY A., 000-00-0000
+HEUSER, STEPHEN J., 000-00-0000
+HICKS, DIXON K., 000-00-0000
+HIGGINS, GREGORY S., 000-00-0000
+HILL, MICHAEL S., 000-00-0000
+HINSON, DANIEL K., 000-00-0000
+HIRST, JAMES J., III, 000-00-0000
+HITCHCOCK, MARCUS A., 000-00-0000
+HOBBIB, THOMAS P., 000-00-0000
+HOFFER, ROBERT H., JR., 000-00-0000
+HOIOOS, THOMAS R., 000-00-0000
+HOLDENER, BRENDA M., 000-00-0000
+HOLMES, JOHN F., 000-00-0000
+HOLMES, STEVEN W., 000-00-0000
+HOOD, JEFFREY D., 000-00-0000
+HOOVER, CLOYES R., JR., 000-00-0000
+HORAN, DALE E., 000-00-0000
+HORNBECK, DONALD G., 000-00-0000
+HOWARD, ALBERT O., III, 000-00-0000
+HOWARD, SAMUEL C. H., 000-00-0000
+HOWLETT, ERIC F., 000-00-0000
+HOYLE, JEFFERY W., 000-00-0000
+HUBBARD, MARK A., 000-00-0000
+HUDSON, WALTER B., 000-00-0000
+HUDSPETH, RANDY J., 000-00-0000
+HUFF, THOMAS W., 000-00-0000
+HUGENROTH, RANDOLPH J., 000-00-0000
+HULLINGER, PAUL D., 000-00-0000
+HULLINGER, PHILLIP G., 000-00-0000
+HUME, STEPHAN J., 000-00-0000
+HUNT, JAMES R., 000-00-0000
+IAQUINTO, KRISTIN C., 000-00-0000
+IATROU, STEVEN J., 000-00-0000
+INZER, MICHAEL W., 000-00-0000
+IRELAN, ROBERT P., 000-00-0000
+IRELAND, JOHN K.F., 000-00-0000
+ISAMINGER, ERIC F., 000-00-0000
+IVIE, MELANIE A., 000-00-0000
+JABALEY, MICHAEL E., JR., 000-00-0000
+JACKSON, HENRY M., 000-00-0000
+JACOBS, GEORGE W., 000-00-0000
+JACOBSON, JERRY L., 000-00-0000
+JACOBUS, PETER W., 000-00-0000
+JAENICHEN, EDWARD L., 000-00-0000
+JAKUBEK, DAVID A., 000-00-0000
+JAKUS, CRAIG E., 000-00-0000
+JANSEN, ADRIAN J., 000-00-0000
+JENSEN, WILLIAM J., 000-00-0000
+JOBB, DAVID S., 000-00-0000
+JOHNSON, CAROLYN D., 000-00-0000
+JOHNSON, JAMES G., 000-00-0000
+JOHNSON, RICHARD E., 000-00-0000
+JOHNSON, WILLIAM C., 000-00-0000
+JONES, BRIAN K., 000-00-0000
+JONES, DORIAN F., 000-00-0000
+JONES, KENNETH L., 000-00-0000
+JONES, VORESA E., 000-00-0000
+JONES, WILLIAM E., JR., 000-00-0000
+JORGENSEN, JOHN M., 000-00-0000
+JOY, CRAIG M., 000-00-0000
+JUDICE, PAUL A., 000-00-0000
+KAEHLER, THEODORE J., 000-00-0000
+KAHN, DAVID J., 000-00-0000
+KAISER, CHRISTOPHER J., 000-00-0000
+KANE, TIMOTHY C., 000-00-0000
+KARKAINEN, ANTHONY C., 000-00-0000
+KAUBER, CRAIG A., 000-00-0000
+KEARLY, TYLER D., 000-00-0000
+KEARNEY, THOMAS J., 000-00-0000
+KEARNS, WILLIAM A., III, 000-00-0000
+KELLEY, ROY J., 000-00-0000
+KELLEY, STEPHEN H., 000-00-0000
+KELLY, STEVEN M., 000-00-0000
+KENNEDY, JON T., 000-00-0000
+KENNEDY, STEVEN L., 000-00-0000
+KENNEY, KEVIN M., 000-00-0000
+KENYON, EDWARD F., 000-00-0000
+KERSH, JOHN M., JR., 000-00-0000
+KIBBY, GEOFFREY A., 000-00-0000
+KIDWELL, DAVID A., 000-00-0000
+KIEFER, CLAUDIA J., 000-00-0000
+KIEFFER, JOHN F., 000-00-0000
+KIEHL, DAVID L., 000-00-0000
+KILBURN, CHARLES D., II, 000-00-0000
+KILRAIN, COLIN J., 000-00-0000
+KIND, PETER J., 000-00-0000
+KING, JEFFREY D., 000-00-0000
+KINNEBREW, ROBERT J., 000-00-0000
+KINTZEL, STEPHEN J., 000-00-0000
+KIRBY, JEFFREY L., 000-00-0000
+KIRKBRIDE, CHRISTOPHER T., 000-00-0000
+KITCHENER, ROY I., 000-00-0000
+KIYAK, GEORGE C., 000-00-0000
+KIZIAH, TODD E., 000-00-0000
+KNAPP, DAVID C., 000-00-0000
+KNEHANS, WILLIAM F., 000-00-0000
+KNOTT, STEVEN W., 000-00-0000
+KOCH, MATTHEW H., 000-00-0000
+KOCH, PAUL A., 000-00-0000
+KOCHER, BRIAN M., 000-00-0000
+KOCHER, BRUCE D., 000-00-0000
+KOMLOSY, JOHN A., 000-00-0000
+KOPRUCU, FEZA S., 000-00-0000
+KORTZ, JEFFREY D., 000-00-0000
+KOWALEWSKI, JOSEPH A., 000-00-0000
+KRAMER, THEODORE R.I., 000-00-0000
+KRIETE, DAVID M., 000-00-0000
+KROTOW, STEPHEN C., 000-00-0000
+KRUEGER, ANTHONY L., 000-00-0000
+KRUKOWSKI, TIMOTHY M., 000-00-0000
+KUSTERS, JOHN G., JR., 000-00-0000
+LACAZE, JEFFERY L., 000-00-0000
+LAFAVE, GREGORY J., 000-00-0000
+LALOR, THOMAS P., 000-00-0000
+LAMADE, JOHN D., II, 000-00-0000
+LAMONT, ROBERT J., 000-00-0000
+LANCASTER, GEORGE M., 000-00-0000
+LAND, THOMAS R., 000-00-0000
+LANDESS, DAVID J., 000-00-0000
+LANGFORD, GLEN C., 000-00-0000
+LAPRISE, WILLIAM M., 000-00-0000
+LARSON, KEITH A., 000-00-0000
+LASELL, HORACE J., 000-00-0000
+LASTRA, GUIDO J., 000-00-0000
+LAURY, JAMES M., 000-00-0000
+LAVOIE, STEVEN F., 000-00-0000
+LAW, MARK A., 000-00-0000
+LAWLER, WILLIAM L., JR., 000-00-0000
+LAWRENCE, RICHARD T., 000-00-0000
+LEAVITT, MARK L., 000-00-0000
+LEGASPI, JOEY E., 000-00-0000
+LEINGANG, DONALD M., 000-00-0000
+LENGYEL, PETER N., 000-00-0000
+LERCH, THOMAS J., 000-00-0000
+LESSARD, STEPHEN C., 000-00-0000
+LEVESQUE, ROLAND W., JR., 000-00-0000
+LEVITT, ADAM S., 000-00-0000
+LEWIS, ANDREW L., 000-00-0000
+LEWIS, LYNN NMN, 000-00-0000
+LICHOLAI, MATTHEW S., 000-00-0000
+LILES, JON P., JR., 000-00-0000
+LINDER, NATALIE A., 000-00-0000
+LINK, JEFFREY P., 000-00-0000
+LIPP, JOSEPH J., III, 000-00-0000
+LISENBY, JOSEPH W., JR., 000-00-0000
+LISKE, HANS P., 000-00-0000
+LITTLE, BRIAN S., 000-00-0000
+LLUY, PAUL A., 000-00-0000
+LOCKWOOD, JOHN L., 000-00-0000
+LOEBLEIN, JAMES T., 000-00-0000
+LOGAN, CHARLES J., 000-00-0000
+LOHR, ALAN R., 000-00-0000
+LOHR, WILLIAM J., 000-00-0000
+LONG, DARRYL J., 000-00-0000
+LOONEY, ANNEMARIE D., 000-00-0000
+LOONEY, GREGORY L., 000-00-0000
+LORING, STEVEN S., 000-00-0000
+LOTT, STEVEN A., 000-00-0000
+LOUGHLIN, MATTHEW E., 000-00-0000
+LUCAS, THEODORE J., 000-00-0000
+LUCAS, THOMAS M., 000-00-0000
+LUCERO, LISA M., 000-00-0000
+LUCKETT, DEBORAH E., 000-00-0000
+LUSIS, ARNIE M., 000-00-0000
+LUSSIER, JOHN P., 000-00-0000
+LUTHER, BRIAN E., 000-00-0000
+LYCAN, PAUL D., 000-00-0000
+LYNCH, CHARLES B., 000-00-0000
+LYNCH, KAREN A., 000-00-0000
+LYON, ROBERT J., 000-00-0000
+LYSAGHT, MARK C., 000-00-0000
+LYTER, CURTIS E., 000-00-0000
+MACKINNON, DOUGLAS J., 000-00-0000
+MAGRINO, CHRISTOPHER NMN, 000-00-0000
+MAHON, GEORGE A., III, 000-00-0000
+MAI, BRADLEY C., 000-00-0000
+MAIN, STEVEN M., 000-00-0000
+MAKEPEACE, LESTER B., III, 000-00-0000
+MAKRIDIS, BASIL K., 000-00-0000
+MALONE, VICTOR S., 000-00-0000
+MANSFIELD, MICHAEL G., 000-00-0000
+MARCONI, PAUL A., 000-00-0000
+MARKERT, DAVID P., 000-00-0000
+MARLOW, JAMES P., 000-00-0000
+MAROTTA, THOMAS W., 000-00-0000
+MARSHALL, LAWRENCE E., 000-00-0000
+MARTEL, RICHARD R., 000-00-0000
+MARTIN, DOUGLAS R., 000-00-0000
+MARTIN, FRANCIS X., 000-00-0000
+MARTIN, LARRY A., 000-00-0000
+MARTIN, MARK G., 000-00-0000
+MARTINEZ, VERNON M., 000-00-0000
+MARTINS, DELANO P., II, 000-00-0000
+MARTIRANO, JOSEPH P., JR., 000-00-0000
+MASER, THOMAS J., 000-00-0000
+MASKELL, DAWN M., 000-00-0000
+MASLA, MICHAEL M., 000-00-0000
+MASTERSON, DANIEL T., 000-00-0000
+MATAIS, GEORGE M., 000-00-0000
+MATTHEWS, PETER W., 000-00-0000
+MAY, KEITH W., 000-00-0000
+MAZANEC, WARREN A., 000-00-0000
+MCCALL, BRENDAN J., 000-00-0000
+MCCARDEN, YOLANDA E., 000-00-0000
+MCCARTHY, JOSEPH R., 000-00-0000
+MCCLELLAN, NANCY J., 000-00-0000
+MCCLELLAND, GARY F., 000-00-0000
+MCCLUSKY, JACQUELINE R.D., 000-00-0000
+MCCRACKEN, MICHAEL E., 000-00-0000
+MCDEVITT, PETER H., 000-00-0000
+MCDONALD, PATRICK J., 000-00-0000
+MCDONNELL, DAVID C., 000-00-0000
+MCDONOUGH, THOMAS J., JR., 000-00-0000
+MCDOWELL, JAMES M., 000-00-0000
+MCDOWELL, JOHN K., 000-00-0000
+MCDUFFIE, DAVID M., 000-00-0000
+MCELROY, KENNETH L., JR., 000-00-0000
+MCELROY, PAUL L., III, 000-00-0000
+MCGOWEN, DOUGLAS A., 000-00-0000
+MCHALE, PAUL F., 000-00-0000
+MCILRAITH, DOUGLAS J., 000-00-0000
+MCINERNEY, STEPHEN P., 000-00-0000
+MCKINNEY, GORDON C., 000-00-0000
+MCKINNEY, LUCINDA A., 000-00-0000
+MCLAUGHLIN, DAVID J., 000-00-0000
+MCMAHON, MICHAEL P., 000-00-0000
+MCMASTERS, WILLIAM C., 000-00-0000
+MCNAMARA, DANIEL T., 000-00-0000
+MEADOWS, THOMAS A., 000-00-0000
+MEDEIROS, DARREN M., 000-00-0000
+MEEKS, ANDREW P., 000-00-0000
+MELCHER, CHARLES P., 000-00-0000
+MELONIDES, JOHN S., 000-00-0000
+MENCHES, ROBERT C., 000-00-0000
+MENENDEZ, ARSENIO K., 000-00-0000
+MENKE, KURT W., 000-00-0000
+MERWIN, MICHAEL L., 000-00-0000
+MEYER, ERIC C., 000-00-0000
+MEYER, MARK F., 000-00-0000
+MEYER, VICTOR A., JR., 000-00-0000
+MEYERS, BRIAN J., 000-00-0000
+MIGLIORE, ANTHONY M., 000-00-0000
+MIKESKA, DENNIS C., 000-00-0000
+MILEY, JOHN NMN, 000-00-0000
+MILLER, BRIAN D., 000-00-0000
+MILLER, KIRBY D., 000-00-0000
+MILLER, TERRY W., 000-00-0000
+MILLS, JANE F., 000-00-0000
+MILLS, THOMAS A., 000-00-0000
+MILOWICKI, GENE V., 000-00-0000
+MITCHELL, JOHN R., 000-00-0000
+MITCHELL, JOHN S., III, 000-00-0000
+MITCHELL, SUSAN A., 000-00-0000
+MOHR, MARK C., 000-00-0000
+MONTGOMERY, MARK C., 000-00-0000
+MOONEY, PATRICK H., 000-00-0000
+MOORADIAN, STEPHEN E., 000-00-0000
+MOORE, JOHN W., 000-00-0000
+MOORE, MICHAEL L., 000-00-0000
+MOORE, PATRICIA B., 000-00-0000
+MORAN, MICHAEL T., 000-00-0000
+MORGAN, DAVID J., 000-00-0000
+MOSHER, TERRY D., 000-00-0000
+MOSK, WILLIAM F., 000-00-0000
+MULDOON, RICHARD C., 000-00-0000
+MULL, TIMOTHY B., 000-00-0000
+MULLEN, EDWARD J., 000-00-0000
+MULLENS, CRAIG M., 000-00-0000
+MULLINS, MARK B., 000-00-0000
+MUNN, JOHN E., 000-00-0000
+MUNSCH, STUART B., 000-00-0000
+MURDOCK, HAL C., 000-00-0000
+MURPHY, MICHAEL S., 000-00-0000
+MURRAY, CHRISTOPHER J., 000-00-0000
+MURRAY, MARY K., 000-00-0000
+MURRAY, STEWART L., 000-00-0000
+MUSGRAVE, LAWRENCE A., 000-00-0000
+MUXLOW, ROBERT A., 000-00-0000
+MUYRES, WILLIAM J., 000-00-0000
+MYERS, ROSS A., 000-00-0000
+NAGY, VINCENT F., 000-00-0000
+NAJMY, EDWARD J., 000-00-0000
+NAUS, MICHAEL L., 000-00-0000
+NAVARRETE, JUAN A., 000-00-0000
+NEAL, THOMAS C., 000-00-0000
+NEIGHBORS, THOMAS E., 000-00-0000
+NELSON, MICHAEL A., 000-00-0000
+NELSON, ROBERT T., 000-00-0000
+NELSON, STEVEN G., 000-00-0000
+NEWSTROM, ERIC P., 000-00-0000
+NEWTON, LAMONT L., 000-00-0000
+NGUYEN, PHONG NMN, 000-00-0000
+NICKERSON, NATHAN C., JR., 000-00-0000
+NIEUSMA, WILLIAM J., JR., 000-00-0000
+NIEZGODA, MARK G., 000-00-0000
+NILES, FREDERICK M., 000-00-0000
+NISSEN, RICHARD J., JR., 000-00-0000
+NOEL, JACK S., II, 000-00-0000
+NOLAN, TIMOTHY J., 000-00-0000
+NOLAN, WILLIAM J., 000-00-0000
+NOLEN, THOMAS D., JR., 000-00-0000
+NORRIS, WARREN O., JR., 000-00-0000
+NOSENZO, THOMAS E., 000-00-0000
+NOTTINGHAM, GREGORY A., 000-00-0000
+NOWAK, RICHARD T., 000-00-0000
+NUNEZ, GERALD A., 000-00-0000
+NUNNALLY, STEPHENS W., JR., 000-00-0000
+NYBERG, GERALD L., 000-00-0000
+NYERGES, PAUL L., 000-00-0000
+OBLACK, STEPHEN, 000-00-0000
+OBRIEN, SEAMUS M., 000-00-0000
+OCONNELL, FREDERICK W., 000-00-0000
+OCONNELL, WILLIAM M., 000-00-0000
+OGARA, MICHAEL V., 000-00-0000
+OHLHAVER, MICHAEL J., 000-00-0000
+OLARTE, GLENN J., 000-00-0000
+OLDS, BRADLEY L., 000-00-0000
+OLINGER, CAROLINE M., 000-00-0000
+OLLIGES, JOHN L., 000-00-0000
+OLMSTED, JAMES N., 000-00-0000
+OLSON, ERIC W., 000-00-0000
+OLSON, TIMOTHY, K., 000-00-0000
+ONEILL, JOHN S., 000-00-0000
+ORREN, SCOTT C., 000-00-0000
+ORTIZ-MARTY, HAMLIN A., 000-00-0000
+ORTON, WILLIAM D., 000-00-0000
+OSULLIVAN, JOHN P., 000-00-0000
+OSWALD, PETER G., 000-00-0000
+OTTINGER, MICHAEL J., 000-00-0000
+OTTO, JAMES K., 000-00-0000
+OWEN, JOHN B., 000-00-0000
+OWENS, JOHN M., JR., 000-00-0000
+OYLER, DEAN O., 000-00-0000
+PADGET, STEVEN A., 000-00-0000
+PAGLIARULO, MICHAEL J., 000-00-0000
+PAINTER, GERALD L., 000-00-0000
+PANGONAS, TIM P., 000-00-0000
+PANICO, STEPHEN L., 000-00-0000
+PAPA, PETER A., 000-00-0000
+PAPPAS, TROY C., 000-00-0000
+PARENT, STEVEN A., 000-00-0000
+PARK, BILL T., 000-00-0000
+PARKER, JOHN T., III, 000-00-0000
+PARKHURST, DAVID C., II, 000-00-0000
+PARRIOTT, GARY R., 000-00-0000
+PAS, MICHAEL E., 000-00-0000
+PASADILLA, MAGNO O., JR., 000-00-0000
+PATTEN, ERIC A., 000-00-0000
+PATTERSON, MARK A., 000-00-0000
+PATTON, SEAN F., 000-00-0000
+PAUL, ANDREW T., 000-00-0000
+PAUL, BARBARA N., 000-00-0000
+PEASE, MICHAEL R., 000-00-0000
+PECKENPAUGH, KENT T., 000-00-0000
+PEDERSEN, TIMOTHY C., 000-00-0000
+PELLEGRINO, PETER A., 000-00-0000
+PELLISSIER, JOSEPH B., 000-00-0000
+PENDOLA, JOHN J., 000-00-0000
+PENNINGTON, WILLIAM J., JR., 000-00-0000
+PERRAULT, PRISCA J., 000-00-0000
+PERRY, JOHN S., JR., 000-00-0000
+PERRY, ROBERT C., 000-00-0000
+PETERS, GORDON D., 000-00-0000
+PETRITSCH, JULIA L., 000-00-0000
+PETTIT, STEVEN L., 000-00-0000
+PHILLIPS, MICHAEL D., 000-00-0000
+PICKERILL, THEODORE O., II, 000-00-0000
+PIERCE, JAMES A, 000-00-0000
+PIERCEY, PATRICK A., 000-00-0000
+PIETRUSZEWSKI, ALAN P., 000-00-0000
+PINTO, WILLIAM M., 000-00-0000
+PITNEY, MICHAEL P., 000-00-0000
+PLATT, SAMUEL M., 000-00-0000
+POLICH, DANIEL L., 000-00-0000
+POLSIN, TIMOTHY J., 000-00-0000
+PONTURIERO, AUGUSTINE J., 000-00-0000
+POPE, CURTIS D., 000-00-0000
+POPPE, STEPHEN J., 000-00-0000
+PORTER, ERFORD E., III, 000-00-0000
+PORTNOY, RALPH I., 000-00-0000
+POSEY, PAUL S., 000-00-0000
+POULIOT, MICHAEL G., 000-00-0000
+POWELL, ROGER B., 000-00-0000
+PREDDY, JOSEPH P., 000-00-0000
+PRESCOTT, STEPHEN M., 000-00-0000
+PRICE, DAVID R., 000-00-0000
+PROSPERI, MICHAEL, V., 000-00-0000
+PROSSER, SHELDON T., 000-00-0000
+PURCELL, MICHAEL E., 000-00-0000
+PURNELL, JOHN S., 000-00-0000
+PUYAU, STEPHEN F., 000-00-0000
+PYLE, ROGER A., 000-00-0000
+QUINN, MARK C., 000-00-0000
+QUINN, THOMAS J., 000-00-0000
+QUINTANILLA, HUMBERTO L., 000-00-0000
+QUINTONG, ARTEMIO P. J., 000-00-0000
+RABUSE, ROBERT B., 000-00-0000
+RACOOSIN, ROBERT W., 000-00-0000
+RAD, JEFFREY M., 000-00-0000
+RADWICK, JEFFREY L., 000-00-0000
+RAINER, RICHARD A., JR., 000-00-0000
+RAMSHAW, WILLIAM S., 000-00-0000
+RANCE, JAMES M., 000-00-0000
+RANDOLPH, MICHAEL C., 000-00-0000
+RANSOM, THOMAS S., 000-00-0000
+RASBURY, STANLEY O., 000-00-0000
+RASNICK, LANNES B., JR. 000-00-0000
+RATTE, DAVID S., 000-00-0000
+RAUCH, CHARLES S., 000-00-0000
+RAUCH, STEVEN L., 000-00-0000
+RAY, KIMBERLY J., 000-00-0000
+RAY, PATRICK A., 000-00-0000
+REDFIELD, DAVID M., 000-00-0000
+REDGATE, DANIEL J., 000-00-0000
+REEVES, BRIAN D., 000-00-0000
+REIMANN, RONALD H., JR., 000-00-0000
+REITER, JOHN R., 000-00-0000
+RENIER, CRAIG S., 000-00-0000
+REUTER, WILLIAM H., IV, 000-00-0000
+REVELLE, DAVID M., 000-00-0000
+REYNOLDS, GUY B., 000-00-0000
+REYNOLDS, KEVIN D., 000-00-0000
+REYNOLDS, VALERIE L., 000-00-0000
+RICE, ERIC R., 000-00-0000
+RICH, PAUL M., 000-00-0000
+RICHARDSON, DANIEL J., 000-00-0000
+RICKE, CHARLES, J., III, 000-00-0000
+RIDINGS, WILLIAM V., 000-00-0000
+RIECKENS, THOMAS C., 000-00-0000
+RIMMINGTON, MICHAEL J., 000-00-0000
+RINALDI, BRIAN L., 000-00-0000
+RISSKY, GEORGE J., 000-00-0000
+RIST, JOSEPH P., 000-00-0000
+RIVARD, DAVID S., 000-00-0000
+RIVERA, JOSE R., 000-00-0000
+RIZZO, JOSEPH R., JR., 000-00-0000
+ROCHA, JEFFREY G., 000-00-0000
+ROMAN, SHIRLEY E., 000-00-0000
+ROMERO, JOHN A., 000-00-0000
+rosa, allison g., 000-00-0000
+rose, john e., 000-00-0000
+rose, mark d., 000-00-0000
+rosen, glenn s., 000-00-0000
+ross, alexander j., 000-00-0000
+ross, alton e., jr., 000-00-0000
+ruce, kevin w., 000-00-0000
+ruedi, david h., 000-00-0000
+rumley, richard e., ii, 000-00-0000
+russell, bradley s., 000-00-0000
+ruttenberg, john j., 000-00-0000
+ryan, michael b., 000-00-0000
+ryan, thomas d., jr., 000-00-0000
+sacha, dennis j., 000-00-0000
+sagovac, christopher p., 000-00-0000
+sanders, william d., 000-00-0000
+sapsai, andrei j., 000-00-0000
+saunders, clayton d., 000-00-0000
+scanlan, james p., 000-00-0000
+schaeffler, mark a., 000-00-0000
+schall, ronald t., jr., 000-00-0000
+schapler, todd s., 000-00-0000
+schellberg, steven a., 000-00-0000
+schmeiser, stephen a., 000-00-0000
+schmidt, wade h., 000-00-0000
+schmieley, donald a., jr., 000-00-0000
+schneider, bruce w., 000-00-0000
+schnell, david a., 000-00-0000
+schnorr d.p., 000-00-0000
+schoeneck, john d., 000-00-0000
+schoonover, gilbert d.j., 000-00-0000
+schram, gary r., 000-00-0000
+schultz, robert g., 000-00-0000
+schwarz, thomas f., 000-00-0000
+schweizer, david d., 000-00-0000
+schwing, teresa a., 000-00-0000
+scott, paul h., 000-00-0000
+scukas, john m., 000-00-0000
+sears, gregg g., 000-00-0000
+sears, john a., iii, 000-00-0000
+sedlacek, mark t., 000-00-0000
+seitz, michael e., 000-00-0000
+seliga, kenneth e., 000-00-0000
+semple, bernadette m., 000-00-0000
+settlemyer, sidney r., 000-00-0000
+severs, paul j., 000-00-0000
+shaffer, kenan j., 000-00-0000
+shanahan, brain j., 000-00-0000
+sharp, alexander v., 000-00-0000
+shaw, joseph m., 000-00-0000
+shaw, robert s., 000-00-0000
+shea, james a., 000-00-0000
+shelden, craig b., 000-00-0000
+shepherd, dwight d., 000-00-0000
+shirey, ronald e., 000-00-0000
+shivers, carol e., 000-00-0000
+shoaf, james r., 000-00-0000
+simmons, carol a., 000-00-0000
+singleton, damon i., 000-00-0000
+skelly, michael p., 000-00-0000
+skufca, joseph d., 000-00-0000
+slade, lawrence r., 000-00-0000
+slais, thomas a., jr., 000-00-0000
+smilowitz, gary j., 000-00-0000
+smith, bradley j., 000-00-0000
+smith, brian t., 000-00-0000
+smith, jeffery c., 000-00-0000
+smith, leon w., jr., 000-00-0000
+smith, maribeth nmn, 000-00-0000
+smith, ned a., 000-00-0000
+smith, roger j., 000-00-0000
+smith, teddiann s., 000-00-0000
+smith, thomas w., 000-00-0000
+smith, william d., iii, 000-00-0000
+snyder, steven b., 000-00-0000
+solms, david a., 000-00-0000
+somers, charles e., iii, 000-00-0000
+sonderman, christopher j., 000-00-0000
+sorber, timothy j., 000-00-0000
+sos, yarema i., 000-00-0000
+sotherland, jack l., iii, 000-00-0000
+spaulding, dale r., 000-00-0000
+speranzo, joseph l., 000-00-0000
+spohnholtz, james r., jr., 000-00-0000
+stammer, robert m., 000-00-0000
+stammer, walter h., iii, 000-00-0000
+stamos, john p., 000-00-0000
+steer, thomas j., 000-00-0000
+steigers, curt w., 000-00-0000
+steindl, david f., 000-00-0000
+steinnecker, elizabeth a., 000-00-0000
+stenstrom, kevin g., 000-00-0000
+stepaniak, michael g., 000-00-0000
+sternberg, charles a., 000-00-0000
+sterrett, arthur m., jr., 000-00-0000
+stewart, john a., 000-00-0000
+stewart, terryl, k., 000-00-0000
+stoll, peter j., 000-00-0000
+stone, william d., 000-00-0000
+stoner, troy a., 000-00-0000
+storm, marinus nmn 000-00-0000
+strano, michael a., 000-00-0000
+stubblefield, robert a., 000-00-0000
+sullivan, james a., 000-00-0000
+sullivan, patrick t., 000-00-0000
+summers, timothy w., 000-00-0000
+surgeoner, robert f., 000-00-0000
+swain, anthony w., 000-00-0000
+swain, david r., 000-00-0000
+swain, gary t., 000-00-0000
+swallow, robert c., 000-00-0000
+swathwood, david r., 000-00-0000
+symmers, benjamin k., jr., 000-00-0000
+sympson, william g., 000-00-0000
+syring, ronda j., 000-00-0000
+syvertsen, james m., 000-00-0000
+szymanski, timothy g., 000-00-0000
+tamas, robert j., jr., 000-00-0000
+tammen, john w., jr., 000-00-0000
+tanaka, clement nmn, 000-00-0000
+tanaka, paul m., 000-00-0000
+tarrell, alvin e., 000-00-0000
+tatomer, william j., jr., 000-00-0000
+taylor, barry r., 000-00-0000
+taylor, david m., 000-00-0000
+taylor, michael g., 000-00-0000
+taylor, michael p., 000-00-0000
+tembe, tushar r., 000-00-0000
+tenorio, matthew p., 000-00-0000
+thaler, timothy j., 000-00-0000
+thebaud, cynthia m., 000-00-0000
+thomas, christopher b., 000-00-0000
+thomas, greg a., 000-00-0000
+thomas, greg a., 000-00-0000
+thompson, jeffery g., 000-00-0000
+thompson, lee e., 000-00-0000
+thompson, mark a., 000-00-0000
+thornhill, andrew h., 000-00-0000
+thornton, david r., 000-00-0000
+thurman, michael nmn, 000-00-0000
+tilbury, jeffrey, p., 000-00-0000
+tilghman, richard w., 000-00-0000
+tillman, willard j., 000-00-0000
+tindal, ralph l., iii, 000-00-0000
+tokarick, kevin j., 000-00-0000
+tooker, william m., 000-00-0000
+toole, joel k., 000-00-0000
+tranoris, james e., 000-00-0000
+turley, leslie s., 000-00-0000
+ulbricht, jonathan g., 000-00-0000
+vahsen, steven s., 000-00-0000
+valenzuela, joseph j., 000-00-0000
+vanbrabant, john d., 000-00-0000
+vance, robert m., 000-00-0000
+vancleave, john a., 000-00-0000
+vandenberg, gerard m., 000-00-0000
+vandeusen, karl j., 000-00-0000
+vandever, kelly a., 000-00-0000
+vandiver, james l., 000-00-0000
+vandyke, steven m., 000-00-0000
+vanhook, tina h., 000-00-0000
+vanmetre, christopher r., 000-00-0000
+vanstee, peter m., 000-00-0000
+varallo, thomas a., jr., 000-00-0000
+vaughan, robert g., 000-00-0000
+vautier, rebecca l., 000-00-0000
+vece, thomas w., 000-00-0000
+venable, jaime r., 000-00-0000
+verfurth, john m., 000-00-0000
+vielock, jeffrey c., 000-00-0000
+vigneron, karen j., 000-00-0000
+viland, michael s., 000-00-0000
+vincent, patrick j., 000-00-0000
+visser, steven n., 000-00-0000
+vissers, stephen j., 000-00-0000
+vizcarra, michael a., 000-00-0000
+voors, patrick m., 000-00-0000
+waddingham, philip l., 000-00-0000
+wagner, edward s., jr., 000-00-0000
+wagoner, keith l., 000-00-0000
+walker, timothy j., 000-00-0000
+wallace, david e., 000-00-0000
+waller, mark c., 000-00-0000
+walls, kenneth c., 000-00-0000
+walsh, daniel j., 000-00-0000
+walzer, robert j., II, 000-00-0000
+warren, thomas w., jr., 000-00-0000
+washabaugh, jason nmn, 000-00-0000
+washington, glen l., 000-00-0000
+waters, douglas e., 000-00-0000
+watson, gary h., jr., 000-00-0000
+watts, geoffrey w., 000-00-0000
+WAUER, BRIAN D., 000-00-0000
+WEAVER, MICHAEL J., 000-00-0000
+WEBER, MARK E., 000-00-0000
+WEIDENHAMMER, WILLIAM H., 000-00-0000
+WEINZETTLE, JOHN M., 000-00-0000
+WELLBORN, RAYMOND B., JR., 000-00-0000
+WELLER, SCOTT N., 000-00-0000
+WELLINGTON, MICHAEL J., 000-00-0000
+WELLS, SUSAN K., 000-00-0000
+WENDEL, MICHAEL W., 000-00-0000
+WERNER, MARK H., 000-00-0000
+WESTERBEKE, JOHN B., 000-00-0000
+WETHERALD, HUGH D., 000-00-0000
+WEZDENKO, RICHARD J., 000-00-0000
+WHALEN, EDWARD A., 000-00-0000
+WHALEN, KENT D., 000-00-0000
+WHITAKER, STEPHEN C., 000-00-0000
+WHITE, JAMES B., II, 000-00-0000
+WHITESELL, KENNETH R., 000-00-0000
+WHITTLE, MARK A., 000-00-0000
+WICKLINE, JAMES O., 000-00-0000
+WIEGERT, ROBERT N., 000-00-0000
+WILKERSON, JAMES N.J., 000-00-0000
+WILLARD, RICHARD J., 000-00-0000
+WILLIAMS, CHARLES F., 000-00-0000
+WILLIAMS, GARY H., 000-00-0000
+WILLIAMS, GORDON C., 000-00-0000
+WILLIAMS, JOHN B., III, 000-00-0000
+WILLIAMS, RANDALL G., 000-00-0000
+WILLIAMS, RICHARD L., JR., 000-00-0000
+WILLIAMS, STEVEN C., 000-00-0000
+WILLIAMS, TERRANCE NMN, 000-00-0000
+WILLIAMS, WILLIAM L., 000-00-0000
+WILLIAMSON, BRAD NMN, 000-00-0000
+WILLIAMSON, DONALD E., 000-00-0000
+WILLIAMSON, MARK R., 000-00-0000
+WILLIAMSON, RICKY L., 000-00-0000
+WILLIAMSON, THOMAS J., 000-00-0000
+WILSON, CHET B., 000-00-0000
+WILSON, KALIN P., 000-00-0000
+WILSON, MICHAEL M., 000-00-0000
+WILSON, STEVEN R., 000-00-0000
+WILSON, TONY W., 000-00-0000
+WILTON, DAVID S., 000-00-0000
+WING, THOMAS M., 000-00-0000
+WINTER, MATHIAS W., 000-00-0000
+WISE, DANIEL E., 000-00-0000
+WISEMAN, KARL R., 000-00-0000
+WITTICK, BRIAN D., 000-00-0000
+WOLTERSDORF, KURT D., 000-00-0000
+WOODS, ALPHONSO L., 000-00-0000
+WRIGHT, DOUGLAS E., 000-00-0000
+WRIGHT, MATTHEW P., 000-00-0000
+WYNDHAM, VANESSA NMN, 000-00-0000
+YANKOVICH, MICHAEL C., 000-00-0000
+YBARRA, RAMON J., 000-00-0000
+YI, CHONG M., 000-00-0000
+YOUNG, EUGENIA A., 000-00-0000
+YOUNG, VERNON E., 000-00-0000
+YOUNG, WILLIAM J., JR., 000-00-0000
+ZACCARDI, VINCENT J., 000-00-0000
+ZAUN, JEFFREY N., 000-00-0000
+ZEIDERS, GLENN W. III, 000-00-0000
+ZGRAGGEN, CRAIG J., 000-00-0000
+ZICK, HERBERT L., 000-00-0000
+ZIEBARTH, KURT W., 000-00-0000
+ZORN, ERIC W., 000-00-0000
+
+
+                       ENGINEERING DUTY OFFICERS
+
+                       To be lieutenant commander
+
+ALFARO, RAYMOND, M., 000-00-0000
+ALHAMBRA, EDGAR M., 000-00-0000
+BILLINGSLEY, ARTHUR B.J., 000-00-0000
+CHISUM, JAMES E., JR., 000-00-0000
+COLEMAN, WILLIAM F., 000-00-0000
+DAVIS, CHARLES A., 000-00-0000
+DEOSS, DISTER L., JR., 000-00-0000
+DEVOGEL, GREGORY F., 000-00-0000
+EVERT, RICHARD W. II, 000-00-0000
+FORD, TERESA O., 000-00-0000
+FOX, DAVID M., 000-00-0000
+HAMLETT, NEIL A., 000-00-0000
+HAMMOND, GREGORY A., 000-00-0000
+HARTMAN, RICHARD M., 000-00-0000
+HOOKER, DONALD T., II, 000-00-0000
+IACOVETTA, JOESPH M., 000-00-0000
+INGLES, EDWARD N., 000-00-0000
+KONICKI, JOSEPH S., 000-00-0000
+KOWALICK, DAVID J., 000-00-0000
+KRESTOS, DEAN M., 000-00-0000
+LOCHNER, JANE T., 000-00-0000
+LONGENECKER, FREDRIC W., 000-00-0000
+MADDOX, DOUGLASL NMN, 000-00-0000
+MALDIA, LEOPOLDO C., 000-00-0000
+MARKLE, STEPHEN P., 000-00-0000
+MATHERS, BRUCE H., 000-00-0000
+MAY, GARY L., 000-00-0000
+MCCARTHY, TIMOTHY G., 000-00-0000
+MCCOY, TIMOTHY J., 000-00-0000
+MITCHELL, STEPHEN W., 000-00-0000
+MURPHY, BRIAN P., 000-00-0000
+MYRE, DAVID D., 000-00-0000
+NARDI, PETER A., 000-00-0000
+PARKER, ROBERT E., JR., 000-00-0000
+PEFFERS, STEPHEN B., 000-00-0000
+PRICE, DENISE S., 000-00-0000
+SCHUPP, PETER E., 000-00-0000
+SKOGERBOE, PAUL E., 000-00-0000
+SPOONER, SCOTT G., 000-00-0000
+STETTLER, JEFFREY W., 000-00-0000
+THIEL, RICHARD A., 000-00-0000
+THOMAS, MARK W., 000-00-0000
+TURNER, JEFFREY L., 000-00-0000
+VICTORY, CHARLES W., 000-00-0000
+VOLLWEILER, FRED O., JR., 000-00-0000
+WALKER, JOHN A., III, 000-00-0000
+WESTER, RODERICK C., 000-00-0000
+WHITCOMB, CLIFFORD A., 000-00-0000
+
+
+           AEROSPACE ENGINEERING DUTY OFFICERS (ENGINEERING)
+
+                       To be lieutenant commander
+
+BRENNAN, SEAN P., 000-00-0000
+BUCK, NICHOLAS V., 000-00-0000
+COLLAZO, RAMON A., JR., 000-00-0000
+DEPPE, MARTIN W., 000-00-0000
+HATCHER, CHARLES S., JR., 000-00-0000
+KNUDSON, WADE E., 000-00-0000
+NOWAK, LISA M., 000-00-0000
+PUGH, LARRY A., 000-00-0000
+YOUNG, MAUDE E., 000-00-0000
+
+
+           AEROSPACE ENGINEERING DUTY OFFICERS (MAINTENANCE)
+
+                       To be lieutenant commander
+
+COYNE, ELLEN NMN, 000-00-0000
+CROWDER, GERALD L., 000-00-0000
+ETHERIDGE-BROWN, TRACY A., 000-00-0000
+FARNUM, PHILLIP H., 000-00-0000
+FLYNN, THOMAS F., 000-00-0000
+FURR, MITCHELL L., 000-00-0000
+HANSHEW, RAYMOND L., 000-00-0000
+HAWK, JOEL S., JR., 000-00-0000
+HEINTSCHEL, ANN L., 000-00-0000
+HUDSON, JAMES N., 000-00-0000
+KELLY, MICHAEL A., 000-00-0000
+KILLEY, DOUGLAS S., 000-00-0000
+MCDONALD, PRENTIS M., 000-00-0000
+MEUER, CASEY C., 000-00-0000
+MITCHELL, MARQUITA A., 000-00-0000
+MORRIS, BRIAN W., 000-00-0000
+ORTIZ, MIGUEL A., 000-00-0000
+PAULK, DAVID A., 000-00-0000
+PETERS, CYNTHIA L., 000-00-0000
+RETTIE, SCOTT L., 000-00-0000
+SCOTT, RAYMOND G., 000-00-0000
+SUMMERS, TOMMY L., 000-00-0000
+TRIMBATH, BRETT W., 000-00-0000
+VIERA, DARREN T., 000-00-0000
+WEILAND, LINDA V., 000-00-0000
+WILLIAMS, LEONARD NMN, 000-00-0000
+ZUMBRO, JERRY L., 000-00-0000
+
+
+                         aviation duty officers
+
+                       To be lieutenant commander
+
+PIVERAL, MARK W., 000-00-0000
+
+
+                   SPECIAL DUTY OFFICERS (CRYPTOLOGY)
+
+                       To be lieutenant commander
+
+ALLBRITTON, MARK J., 000-00-0000
+ATWELL, THERESA M., 000-00-0000
+BARKSDALE, CARL A., 000-00-0000
+BISHOP, STEVEN B., 000-00-0000
+BROWN, JEFFREY F., 000-00-0000
+CAIRNS-MCFEETERS, EUGENIA L., 000-00-0000
+CULL, SCOTT D., 000-00-0000
+FULLER, WAYNE A., 000-00-0000
+GRADT, TIMOTHY R., 000-00-0000
+GRONEWOLD, DIANE K., 000-00-0000
+HARDING, MARK J., 000-00-0000
+HAWS, GREGORY J., 000-00-0000
+HOWLIN, TIMOTHY M., 000-00-0000
+KING, MICHAEL K., 000-00-0000
+LAJEUNESSE, MICHAEL R., 000-00-0000
+LIPSCOMB, MICHAEL P., 000-00-0000
+LOGSDON, PATRICK B., 000-00-0000
+LUNDE, KERN D., 000-00-0000
+MACKIN, JOHN M., 000-00-0000
+MALCOMSON, GARY R., 000-00-0000
+MARLOW, ERIN K., 000-00-0000
+MCGINN, ELIZABETH M., 000-00-0000
+MCINTYRE, EDDIE L., 000-00-0000
+MCKINSTRY, JOHN W., 000-00-0000
+METTS, WILLIE L., 000-00-0000
+MILLER, CHRIS A., 000-00-0000
+NEWHOUSE, ERIC J., 000-00-0000
+PARODE, STEVEN L., 000-00-0000
+PETTY, ROY S., 000-00-0000
+PHILLIPS, BARRY W., 000-00-0000
+POST, JOHN C., 000-00-0000
+RAWLS, DWIGHT G., 000-00-0000
+RICH, LYFORD D., 000-00-0000
+ROBINSON, GEORGE E., 000-00-0000
+SPATHAROS, FRANK A., 000-00-0000
+STROZZO, PHILLIP G., 000-00-0000
+TEXLEY, THOMAS E., 000-00-0000
+THARRINGTON, CHRISTOPHER B., 000-00-0000
+VANDENBERG, DENNIS J., 000-00-0000
+VANMETER, GUY E., 000-00-0000
+VULCAN, LELAND C., 000-00-0000
+WHITLOW, GREGORY NMN, 000-00-0000
+
+
+                  SPECIAL DUTY OFFICERS (INTELLIGENCE)
+
+                       To be lieutenant commander
+
+ABBATIELLO, LEONARD M., 000-00-0000
+ANDERSON, PATRICIA R., 000-00-0000
+ASHCRAFT, PAUL D., 000-00-0000
+AZZARITA, NICHOLAS J., 000-00-0000
+BARKER, MICHELE C., 000-00-0000
+BERNALES, BARTON J., 000-00-0000
+BEVERLY, JOSEPH, F., 000-00-0000
+BLASCO, GEORGE L., 000-00-0000
+BURKART, GREGORY G., 000-00-0000
+CARR, WILLIAM J., 000-00-0000
+CARTER, STUART A., 000-00-0000
+COLANERI, BERTRAND A., 000-00-0000
+CORDERO, LUIS G., 000-00-0000
+CROSS, RAY A., 000-00-0000
+CUNNINGHAM, WILLIAM S., 000-00-0000
+CURTIS, STEPHEN G., 000-00-0000
+CUTTS, ANDREW W., 000-00-0000
+DODD, CARL S., 000-00-0000
+DRISCOLL, DAINEL M., 000-00-0000
+DWIGGINS, DAVID W., 000-00-0000
+FANELL, JAMES E., 000-00-0000
+FERNANDEZ, PELAYO F., 000-00-0000
+GLAZIER, WENDY L., 000-00-0000
+GREEN, DANIEL M., 000-00-0000
+GREENWOOD, MICHAEL D., 000-00-0000
+GRIFFIN, BRENT J., 000-00-0000
+HESS, PAUL A., 000-00-0000
+HILL, DEBORAH J., 000-00-0000
+HOLCOMB, ROSS D., 000-00-0000
+HUGHES, JAMES C., 000-00-0000
+IMHOFF, DEENAN M., 000-00-0000
+INMAN, CARL R., 000-00-0000
+JENNINGS, CHARLES A., 000-00-0000
+KENNETT, ROBERT P., 000-00-0000
+KESSLER, STEPHANIE S., 000-00-0000
+KRISTIN, ERIC V., 000-00-0000
+KROTOW, GERALDINE S., 000-00-0000
+KURIYAMA, WILLIAM A., 000-00-0000
+LAIN, KATHERINE L., 000-00-0000
+LEE, JEFFREY D., 000-00-0000
+LEECH, THOMAS M., JR., 000-00-0000
+LINDSAY, ROBERT R., 000-00-0000
+LOVELESS, BRUCE F., 000-00-0000
+MCAULIFFE, KATHLEEN NMN, 000-00-0000
+MCCOLLUM, SCOTT F., 000-00-0000
+MCILMAIL, JAMES F., 000-00-0000
+MUNACO, PHILIP A., 000-00-0000
+OAKELEY, KELLY M., 000-00-0000
+ORTWEIN, MICHAEL T., 000-00-0000
+PAGACH, KENNETH I., 000-00-0000
+PAGETT, STEVEN L., 000-00-0000
+RIEF, PETER R., 000-00-0000
+ROBERTS, BECKY A., 000-00-0000
+ROSE, ROBERT E., 000-00-0000
+ROSSER, JAMES A., III, 000-00-0000
+RUPP, ROBERT NMN, 000-00-0000
+SCOTT, EDWARD M., 000-00-0000
+SCRIBNER, JEFFREY L., JR., 000-00-0000
+SEARS, TODD R., 000-00-0000
+SHUEY, DONALD W., 000-00-0000
+SIBICK, KEITH M., 000-00-0000
+SMITH, CLAUDE D., 000-00-0000
+SPER, MARY K., 000-00-0000
+STUBBS, JOHN B., 000-00-0000
+SULZBACH, EDWARD F., III, 000-00-0000
+TRAIL, THOMAS R., JR, 000-00-0000
+ULATOWSKI, VALERIE A., 000-00-0000
+ULISNIK, KAREN D., 000-00-0000
+VANREESEMA, BRYAN P.S., 000-00-0000
+VIEIRA, MICHAEL L., 000-00-0000
+WALEY, KENNETH A., 000-00-0000
+WALL, ALAN R., 000-00-0000
+WARFORD, EDWARD B., 000-00-0000
+WERTZ, MATTHEW A., 000-00-0000
+WHEATLEY, WILLIAM NMN, 000-00-0000
+WHITEFIELD, PAUL M., 000-00-0000
+WILBER, JOHN J., 000-00-0000
+WILLIAMS, JAMES E., 000-00-0000
+ZIMMERMANN, LEONARD A.I., 000-00-0000
+
+
+                 special duty officers (public affairs)
+
+                       To be lieutenant commander
+
+ALDERSON, WILLIAM J., 000-00-0000
+AUSTIN, EDWARD L., 000-00-0000
+BRENTON, REBECCA E., 000-00-0000
+BROOKS, JAMES E., 000-00-0000
+BROWN, MATTHEW S., 000-00-0000
+GRAYBEAL, JAMES W., 000-00-0000
+HAEG, SUSAN M., 000-00-0000
+HILL, RODNEY A., 000-00-0000
+JEFFRIES, KAREN D., 000-00-0000
+JONES, ELIZABETH A., 000-00-0000
+MC CAFFREY, MARK R., 000-00-0000
+MC WHORTER, CHARLES D., 000-00-0000
+NEWELL, ROBERT D., 000-00-0000
+PITTMAN, HAROLD E., 000-00-0000
+ROSS, ROBERT T., 000-00-0000
+SPANN, WILLIAM S., 000-00-0000
+TALLMAN, KATRINA A., 000-00-0000
+WELLS, DAVID E., 000-00-0000
+
+
+                  special duty officers (oceanography)
+
+                       To be lieutenant commander
+
+ANGOVE, MICHAEL D., 000-00-0000
+BALDAUF, BRIAN K., 000-00-0000
+BERDEGUEZ, JAMES NMN, 000-00-0000
+COLUCCI, JAY W., 000-00-0000
+COOPER, GRANT A., IV, 000-00-0000
+DAGOSTINO, ANOTHONY F., 000-00-0000
+HARRISON, DANIEL E., 000-00-0000
+KRAFT, ANTON J., 000-00-0000
+LANE, TIMOHTY G., 000-00-0000
+MALSICK, MARK D., 000-00-0000
+OCARROLL, ROSEMARIE NMN, 000-00-0000
+OTIS, DAVID E., 000-00-0000
+PETRUNCIO, EMIL T., 000-00-0000
+PETTIGREW, JAMES C., 000-00-0000
+RUPPE, KAREN M., 000-00-0000
+RUTHERFORD, STEVEN J., 000-00-0000
+SCHULZ, WILLIAM J., JR., 000-00-0000
+SPINELLI, JULIA M., 000-00-0000
+SPRINGER, CORY A., 000-00-0000
+STANTON, ROBERT J., 000-00-0000
+STEADLEY, ROBERT S., 000-00-0000
+STEEVES, MARY A., 000-00-0000
+STONE, REBECCA E., 000-00-0000
+TRAMM, EUGENE P., 000-00-0000
+VANN, JAMES R., 000-00-0000
+WALSH, DAVID J., 000-00-0000
+WEBB, BENNY H., 000-00-0000
+WHALEN, JOHN D., 000-00-0000
+WHITNEY, CLAUDIA S., 000-00-0000
+
+
+                      limited duty officers (line)
+
+                       To be lieutenant commander
+
+ALLEN, JAMES H., 000-00-0000
+ALLEN, RONALD R., 000-00-0000
+ATKINSON, PURVIS J., 000-00-0000
+BALLENGER, JAMES E., 000-00-0000
+BARTSCH, BRYAN W., 000-00-0000
+BENEDETTO, JANE A., 000-00-0000
+BIRTCHET, LESTER N., 000-00-0000
+BLACK, SAMUEL K., 000-00-0000
+BOONE, DAVID B., 000-00-0000
+BORGERDING, ROBERT E., 000-00-0000
+BRACKMAN, RAYMOND C., 000-00-0000
+BRADDOCK, RANDALL L., 000-00-0000
+BRIGHTBILL, GARY R., 000-00-0000
+BRINK, JAMES M., 000-00-0000
+BROKAW, JAMES E., 000-00-0000
+BRUMFIEL, GARY A., 000-00-0000
+BURNETT, JOHN T., 000-00-0000
+BUTTERWORTH, GARY W., 000-00-0000
+CABREIRA, JOSEPH NMN, 000-00-0000
+CALE, WILLIAM A., 000-00-0000
+CENTER, RONALD E., 000-00-0000
+CENTERS, CASH J., 000-00-0000
+CHAYER, MARK C., 000-00-0000
+CHURCH, MICHAEL J., 000-00-0000
+CLAYTON, BROOKS F., 000-00-0000
+COLE, RICHARD E., 000-00-0000
+COLE, STEVEN R., 000-00-0000
+COLLINS, EDMUND B., 000-00-0000
+CONNOLLY, TIMOTHY M., 000-00-0000
+CREASON, CARL A., 000-00-0000
+CRUZ, FRANCISCO Q., 000-00-0000
+CUMBERBATCH, VALENTINE G., 000-00-0000
+CYWINSKI, DAVID D., 000-00-0000
+DAMMANN, DENNIS A., 000-00-0000
+DANIELS, KEVIN W., 000-00-0000
+DAVIS, JERRY P., 000-00-0000
+DAVIS, MARK K., 000-00-0000
+DENBY, JOE C., 000-00-0000
+DESANTIS, ROBERT W., 000-00-0000
+DESROSIER, THOMAS G., 000-00-0000
+DEWIRE, JONATHAN C., 000-00-0000
+DIETZ, RICHARD K., 000-00-0000
+DRAKE, DOUGLAS D., 000-00-0000
+DYSON, DAVID L., 000-00-0000
+EATON, DAVID A., 000-00-0000
+EATON, NORMAN D., 000-00-0000
+ERICKSON, WILLIAM D., 000-00-0000
+EVERETTE, TERRY L., 000-00-0000
+FINDLEY, ROBERT K., 000-00-0000
+FINLEY, ROBERT S., 000-00-0000
+FOSTER, THOMAS D., 000-00-0000
+FREEMAN, JEFFERY A., 000-00-0000
+FRETWELL, RONNIE L., 000-00-0000
+FRIDLEY, TIMOTHY L., 000-00-0000
+GANN, DAVID E., 000-00-0000
+GARRIGAN, PETER D., 000-00-0000
+GATES, RONALD E., 000-00-0000
+GILLIS, EUGENE B., 000-00-0000
+GILMORE, MICHAEL E., 000-00-0000
+GLYNN, DANIEL E., 000-00-0000
+GRINSTEAD, BARRY M., 000-00-0000
+GUIDRY, DIANE T., 000-00-0000
+HAMILL, JEROME J., 000-00-0000
+HAMMOND, GERALD J., JR., 000-00-0000
+HAMMOND, MARK D., 000-00-0000
+HANSON, JULIE K., 000-00-0000
+HARKER, JAMES A., 000-00-0000
+HARPER, DAVID D., 000-00-0000
+HARRIS, WILLIAM K., 000-00-0000
+HARVEY, TIMOTHY B., 000-00-0000
+HAYNES, BILLY D., 000-00-0000
+HEART, RAYMOND D., 000-00-0000
+HENNESSY, WILLIAM J., 000-00-0000
+HERNDON, GEORGE L., 000-00-0000
+HOLLEY, WILLIAM D., 000-00-0000
+HOLMES, DONALD C., 000-00-0000
+HOPPER, JAMES M., 000-00-0000
+HOTCHKISS, MICHAEL J., 000-00-0000
+HOWARD, JAMES S., 000-00-0000
+HUMMEL, JAMES C., 000-00-0000
+ISRAEL, THOMAS J., 000-00-0000
+IVES, JAMES L., 000-00-0000
+JACKS, PATRICK NMN, 000-00-0000
+JACKSON, CRAIG J., 000-00-0000
+JESSEN, DAVID A., 000-00-0000
+JOHNSON, CHARLES W., 000-00-0000
+JOHNSON, GREGORY L., 000-00-0000
+JOHNSON, STEPHEN E., 000-00-0000
+JUDY, MARK R., 000-00-0000
+KAUSEK, ALBERT J., 000-00-0000
+KEIDEL, WILLIAM L., JR., 000-00-0000
+KENNEDY, ALBERT E., 000-00-0000
+KINSEY, MICHAEL S., 000-00-0000
+KIRSTINE, CHARLES E., 000-00-0000
+KNIGHTON, RONNIE L., 000-00-0000
+KOHLER, KENNETH A., 000-00-0000
+KRIEBEL, EDWARD T., 000-00-0000
+KUESTER, ROBERT W., 000-00-0000
+LAMB, KEVIN N., 000-00-0000
+LANGLAIS, STEPHEN A., 000-00-0000
+LASHUA, ERNEST E., JR., 000-00-0000
+LAURSEN, BRIAN K., 000-00-0000
+LAWTON, WILLIAM B., 000-00-0000
+LEASURE, GEORGE M., 000-00-0000
+LETTS, BRADLEY J., 000-00-0000
+LEWIS, JERRY G., JR., 000-00-0000
+LITTLE, GLEN M., JR., 000-00-0000
+LOKEN, ROBERT E., 000-00-0000
+MACARTHUR, JEFFREY S., 000-00-0000
+MACDONALD, JAMES B., 000-00-0000
+MANUMA, LENE S., JR., 000-00-0000
+MARSHALL, ALAN R., 000-00-0000
+MAUPIN, RONALD C., 000-00-0000
+MAVES, KENNETH A., 000-00-0000
+MCCOOL, DAVID E., 000-00-0000
+MCGLAUFLIN, KELLY G., 000-00-0000
+MCHATTIE, DONALD G., 000-00-0000
+MCMANUS, DONOVAN S., 000-00-0000
+MCSHANE, MICHAEL J., 000-00-0000
+MILLER, DALE L., 000-00-0000
+MILLER, ERIC C., 000-00-0000
+MILLS, EDWARD E., 000-00-0000
+MILLS, GREGORY L., 000-00-0000
+MITCHELL, DERRICK A., 000-00-0000
+MOLLOY, EDWARD F., 000-00-0000
+MOORE, GERALD W., 000-00-0000
+MORIN, NORBERT D., 000-00-0000
+MUELLER, TIMOTHY G., 000-00-0000
+MUGRAGE, DAVID J., 000-00-0000
+MULLINS, BOBBY R., 000-00-0000
+MURPHY, WILLIAM A., 000-00-0000
+NAGEL, DAVID A., 000-00-0000
+NAHITCHEVANSKY, ANTONY H., 000-00-0000
+NELSON, DONALD F., 000-00-0000
+NOLAN, DONALD J., 000-00-0000
+OAKES, JAMES R., 000-00-0000
+ODONNELL, RAYMOND C., 000-00-0000
+OLDLAND, BRENT D., 000-00-0000
+OSTRANDER, DAVID P., 000-00-0000
+OZKOSAR, OZKAN NMN, 000-00-0000
+PAGONA, JOHN L., JR, 000-00-0000
+PANTER, DANIEL R., 000-00-0000
+PARRON, WANDA S., 000-00-0000
+PATTERSON, JASON L., 000-00-0000
+PAULETTE, WILLIAM R., 000-00-0000
+PAXTON, DEBRA A., 000-00-0000
+PAYNE, FRANCIS L., 000-00-0000
+PECK, JOSEPH S., 000-00-0000
+PEREZ, LAURENT M., 000-00-0000
+PIERCE, TIMOTHY L., 000-00-0000
+PON, ARNOLD L., 000-00-0000
+PREMO, DAVID M., 000-00-0000
+PRESCOTT, PAUL B., 000-00-0000
+QUINN, MICHAEL, 000-00-0000
+RADER, ARTHUR P., 000-00-0000
+REED, BUDDY V.W., 000-00-0000
+RENFRO, CURTIS A., 000-00-0000
+RESNICK, MAX M.Z., 000-00-0000
+RHOADES, VICTOR S., 000-00-0000
+RIGHTER, MARK H., 000-00-0000
+ROBBINS, CHUCK D., 000-00-0000
+ROBERSON, PAUL M., 000-00-0000
+RODRIGUEZ, JESUS M., 000-00-0000
+ROOF, DONALD J., 000-00-0000
+ROSS, STEVEN W., 000-00-0000
+ROTH, LARRY J., 000-00-0000
+RUNNE, ROBIN G., 000-00-0000
+RUTLEDGE, VIRGINIA B., 000-00-0000
+SAARI, NORMAN E., 000-00-0000
+SANDERS, MICHAEL L., 000-00-0000
+SASSONE, JEFFREY P., 000-00-0000
+SCHMITT, MARK R., 000-00-0000
+SCRUGGS, KENNETH L., 000-00-0000
+SEIVERS, ANTHONY E., 000-00-0000
+SHEDD, JERRY E., 000-00-0000
+SHIRLEY, JAMES J., 000-00-0000
+SHORT, MARTHA L., 000-00-0000
+SIMMONS, BILLY G., 000-00-0000
+SLEVIN, GERALD A., 000-00-0000
+SMITH, MARK P., 000-00-0000
+SPELL, MARTIN B., 000-00-0000
+SPENCER, ROBERT NMN, 000-00-0000
+SPROULL, MICHAEL L., 000-00-0000
+STELLA, LAVERNE L., 000-00-0000
+STEPHENS, ALLEN C., 000-00-0000
+STRAUSBAUGH, JON E., 000-00-0000
+STUBBS, GARY W., 000-00-0000
+SUPALLA, BRUCE P., 000-00-0000
+SWINSON, JIMMY G., 000-00-0000
+THERIAULT, JOHN J., 000-00-0000
+TOBIN, ROBERT B., 000-00-0000
+TRAXLER, EARL K., 000-00-0000
+TULLOS, REX F., 000-00-0000
+VANZANDT, JACK H., 000-00-0000
+VERBEKE, RICHARD E., 000-00-0000
+WALSH, RONALD L., 000-00-0000
+WARREN, STUART C., 000-00-0000
+WEIDNER, JOHN M., 000-00-0000
+WESNER, DENNIS C., 000-00-0000
+WHITSON, JAMES L., 000-00-0000
+WIGGINS, DONALD NMN, 000-00-0000
+WILLIAMS, DARRYL, 000-00-0000
+WILSON, DENNIS L., 000-00-0000
+WOOD, WILLIAM A., 000-00-0000
+WREN, WILLIAM J., 000-00-0000
+YOUNG, GARY L., 000-00-0000
+ZELIFF, ALAN N., 000-00-0000
+ZWEIFEL, ALLAN K., 000-00-0000
+
+```
