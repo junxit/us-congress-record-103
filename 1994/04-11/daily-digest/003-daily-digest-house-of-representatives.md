@@ -1,0 +1,23 @@
+---
+granule: CREC-1994-04-11-pt1-PgD3
+date: 1994-04-11
+edition: CREC
+section: DAILYDIGEST
+page: D
+citation: 140 Cong. Rec. D
+---
+
+# Daily Digest/House of Representatives
+
+```
+[Congressional Record: April 11, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                        House of Representatives
+
+
+Chamber Action
+  The House was not in session today. Its next meeting will be held at 
+noon on Tuesday, April 12.
+```
