@@ -1,0 +1,24 @@
+---
+granule: CREC-1994-06-15-pt1-PgH37
+date: 1994-06-15
+edition: CREC
+section: HOUSE
+page: H
+citation: 140 Cong. Rec. H
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentleman from Minnesota [Mr. Sabo] is recognized for 5 minutes.
+
+```
+[Congressional Record: June 15, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Minnesota [Mr. Sabo] is recognized for 5 minutes.
+
+  [Mr. SABO addressed the House. His remarks will appear hereafter in 
+the Extensions of Remarks.]
+
+                          ____________________
+```
