@@ -1,0 +1,250 @@
+---
+granule: CREC-1994-08-09-pt1-PgS55
+date: 1994-08-09
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# NOMINATIONS
+
+```
+[Congressional Record: August 9, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                              NOMINATIONS
+
+  Executive nominations received by the Senate August 9, 1994:
+
+
+                  Corporation for Public Broadcasting
+
+       Henry J. Cauthen, of South Carolina, to be a Member of the 
+     Board of Directors of the Corporation for Public Broadcasting 
+     for a term expiring January 31, 2000. (Reappointment)
+       Franv Henry Cruz, of California, to be a Member of the 
+     Board of Directors of the Corporation for Public Broadcasting 
+     for a term expiring January 31, 2000, vice Lloyd Kaiser, term 
+     expired.
+
+
+                           In the coast guard
+
+       The following Regular officers of the U.S. Coast Guard for 
+     promotion to the grade of captain:
+     Robert W. Vail
+     William H. Fels
+     John M. Crye
+     John C. Luther
+     Randall P. Parmentier
+     Adolph E. Zimmer II
+     Frederick V. Newman, Jr.
+     Kevin J. Eldridge
+     Carol V. Mosebach
+     John E. Veentjer
+     Thomas J. Allard
+     John R. Sprouse
+     Brian J. Clark
+     George T. Gunther
+     David R. Nicholson
+     Ray W. Clark, Jr.
+     Tajr Hull
+     John V. O'Shea
+     Gary S. Steinfort
+     Grant E. Leber
+     Steven J. Bellona
+     Robert W. Bruce, Jr.
+     Fredrick A. Adams
+     Robert G. Ross
+     Donald S. Lewis
+     Edward P. Boyle
+     Robert L. Skewes
+     Peter A. Popko
+     Keith Coddington
+     Michael M. Rosecrans
+     James R. Loew
+     George F. Wright
+     Michael A. Robinett
+     Freddy L. Montoya
+     Robert F. Petko
+     Larry L. Hereth
+     Daniel J. Scherer
+     Robert E. Dodge, Jr.
+     David R. Innis
+     James M. Collin
+     Robert F. Rzemieniewski
+     Michael W. Brown
+     Peter J. Boyd
+     John S. Clay
+     David W. Moore
+     Randal K. Corrigan
+     Warren G. Schneeweis
+     Margaret R. Riley
+     Frank L. Whipple
+     Dwight H. Meekins
+     Jeffrey M. Garrett
+     Gerald M. Davis
+     Paul G. Miller
+     Judith M. Hammond
+     Stewart L. Gingrich
+     Alberto J. Gaston
+     John R. Odom III
+     Stanley J. Walz
+     Ronald W. Batson
+     John E. Schrinner
+     Kurt A. Carlson
+     Vivien S. Crea
+     Gabriel O. Kinney
+     David F. Miller
+     Richard R. Beardsworth
+     Philip M. Sanders
+
+
+                            in the air force
+
+       THE FOLLOWING U.S. AIR FORCE RESERVE OFFICER TRAINING CORPS 
+     GRADUATES FOR APPOINTMENT IN THE REGULAR AIR FORCE IN THE 
+     GRADE OF SECOND LIEUTENANT UNDER THE PROVISIONS OF TITLE 10, 
+     UNITED STATES CODE, SECTION 531, WITH DATES OF RANK TO BE 
+     DETERMINED BY THE SECRETARY OF THE AIR FORCE.
+
+
+                         line of the air force
+
+INES M. AGOSTO, 000-00-0000
+THOMAS W. ALLEN, 000-00-0000
+MARK C. ANARUMO, 000-00-0000
+JAMES G. ANDERSON, 000-00-0000
+BRIAN S. ARMSTRONG, 000-00-0000
+DERECK J. BARNES, 000-00-0000
+PETER A. BERUBE, 000-00-0000
+JONATHAN N. BLAND, 000-00-0000
+MATTHEW J. BRECHWALD, 000-00-0000
+KRISTI K. BROWN, 000-00-0000
+TIMOTHY J. BURKE, 000-00-0000
+JOANNE BURNETT, 000-00-0000
+STEPHEN T. BURRINGTON, 000-00-0000
+JAMES T. CASKEY, 000-00-0000
+TRUDY M. CASSEN, 000-00-0000
+ANTHONY M. CERMINARO, 000-00-0000
+JAMES E. COLE, 000-00-0000
+CHAD COOK, 000-00-0000
+SAMUEL D. COX, 000-00-0000
+FAE M. CRISSMAN, 000-00-0000
+JENNIFER I. CUI, 000-00-0000
+AMY J. DEBATES, 000-00-0000
+WILLIAM D. DRISCOLL II, 000-00-0000
+JONATHAN P. ELLIOTT, 000-00-0000
+JUPE A. ETHERIDGE, 000-00-0000
+PETER M. FESLER, 000-00-0000
+DAVID M. FIDLER, 000-00-0000
+ROBERT C. FINCH, 000-00-0000
+KATHRYN E. FRESEMAN, 000-00-0000
+ROBIN GALLANT, 000-00-0000
+JOE B. GAMERTSFELDER, 000-00-0000
+LEONARD GARCIA, 000-00-0000
+NEIL J. GIBSON, 000-00-0000
+ANGELA P. GIDDINGS, 000-00-0000
+CHRISTOPHER W. GILMORE, 000-00-0000
+JASON GIRARD, 000-00-0000
+MARK D. GLISSMAN, 000-00-0000
+NATHAN C. GREEN, 000-00-0000
+JOHN P. GREENAWAY, 000-00-0000
+ETHAN C. GRIFFIN, 000-00-0000
+GARRY A. HAASE, 000-00-0000
+GRACE A. HALL, 000-00-0000
+MARK L. HALL, 000-00-0000
+LOUIS W. HANSEN, 000-00-0000
+RICHARD J. HARGRAVE, 000-00-0000
+TED W. HARRIS, JR, 000-00-0000
+KELLY A. HERD, 000-00-0000
+LANCE A. HOBSON, 000-00-0000
+DEAN L. HOEKSTRA, 000-00-0000
+DAVID M. HOLLIDAY, 000-00-0000
+DAVID R. HOPPER, 000-00-0000
+DALE E. HYBL, 000-00-0000
+RICHARD L. JARRELL, 000-00-0000
+JOHNNIE G. JERNIGAN, 000-00-0000
+CURTIS W. JOHNSON, 000-00-0000
+JOHN W. JURGENSEN, 000-00-0000
+LESLIE L. KASSL, 000-00-0000
+KARLETON LEROY KERR, 000-00-0000
+SCOTT M. KIEFFER, 000-00-0000
+LEE E. KLOOS, 000-00-0000
+JASON E. KOLTES, 000-00-0000
+CHRISTOPHER J. LACHANCE, 000-00-0000
+RANDALL C. LAMBERT, 000-00-0000
+KINDRA A. LARSON, 000-00-0000
+JULIA M. LAURENZANO, 000-00-0000
+MINNA A. LAVALLEY, 000-00-0000
+CHRISTOPHER J. LEEMAN, 000-00-0000
+JOHN C. LOWE, 000-00-0000
+JOSEPH R. MAREK, 000-00-0000
+JOHN W. MARUSA, 000-00-0000
+ANTHONY J. MASTALIR, 000-00-0000
+BRIAN E. MAUE, 000-00-0000
+JENNIFER A. MCCARY, 000-00-0000
+CHARLES D. MCCURRY, 000-00-0000
+MATTHEW E. MCQUINN, 000-00-0000
+DAVID C. MERKEL, 000-00-0000
+MICHAEL A. MILLER, 000-00-0000
+DAVID K. MOELLER, 000-00-0000
+SEAN D. MURPHY, 000-00-0000
+ANDREW J. MUSER, 000-00-0000
+NEIL G. NICHOLS, 000-00-0000
+MATTHEW J. NICOLETTA, 000-00-0000
+NATHAN L. NIEDERHAUSER, 000-00-0000
+ROGER M. NOREIGA, 000-00-0000
+JAMES A. OLDENBURG, 000-00-0000
+SCOTT R. OLSEN, 000-00-0000
+DANIEL S. PAPPA, 000-00-0000
+JOHN C. PETERSON, 000-00-0000
+JEREMY C. PHILLIPS, 000-00-0000
+MICHAEL J. POIRIER, 000-00-0000
+JOSEPH D. PRICE, 000-00-0000
+MARK J. PROCTOR, 000-00-0000
+JONATHAN QUINN, 000-00-0000
+JOHN E. RANDOLPH, 000-00-0000
+RANDALL D. RATHMANN, 000-00-0000
+GLEN S. RICHARDS, 000-00-0000
+DIANE E. RIDGLEY, 000-00-0000
+MICHELLE G. ROBINSON, 000-00-0000
+CHRISTINA M. RODRIGUEZ, 000-00-0000
+SCOTT A. ROMBERGER, 000-00-0000
+ROBERT D. ROY, 000-00-0000
+MICHAEL T. RYAN, 000-00-0000
+BRETT J. SCHOEPFLIN, 000-00-0000
+RICHARD T. SCOTT, 000-00-0000
+MARK T. SKOSICH, 000-00-0000
+BRADLEY K. SMITH, 000-00-0000
+NICHOLAS A. SMITH, 000-00-0000
+NICK A. SPANKOWSKI, 000-00-0000
+JEFFREY R. SPRAIN, 000-00-0000
+RICHARD V. STEELE, 000-00-0000
+TIMOTHY J. STEFFEN, 000-00-0000
+MICHAEL J. STEPANIAK, 000-00-0000
+JASON P. STOCK, 000-00-0000
+STEPHEN R. STOLZ, 000-00-0000
+JUDE R. SUNDERBRUCH, 000-00-0000
+JASON W. TAYLOR, 000-00-0000
+DOUGLAS G. THIES, 000-00-0000
+CHAD C. TILLEY, 000-00-0000
+LINDA M. TIMIAN, 000-00-0000
+WILLIAM D. TRAUTMANN, 000-00-0000
+ERIC N. TRESCHUK, 000-00-0000
+J. SCOTT TYO, 000-00-0000
+DAVID J. WALLER, 000-00-0000
+SHANNON M. WERNDLI, 000-00-0000
+RANDY C. A. WHITECOTTON, 000-00-0000
+MICHAEL G. WHYTE, 000-00-0000
+JOHN B. WILBOURNE, 000-00-0000
+BRIAN K. WINKLEPLECK, 000-00-0000
+KENNETH P. WOODCOCK, 000-00-0000
+JOSEPH B. WURMSTEIN, 000-00-0000
+SANG H. YOO, 000-00-0000
+KATHERINE A. ZUKOR, 000-00-0000
+
+                          ____________________
+```
