@@ -1,0 +1,82 @@
+---
+granule: CREC-1994-05-04-pt1-PgS65
+date: 1994-05-04
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# VIETNAM HUMAN RIGHTS DAY
+
+**Speaking:** Levin, Carl (L000261) [D-MI]
+
+**Measures:** S.J.Res. 168
+
+```
+[Congressional Record: May 4, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                        VIETNAM HUMAN RIGHTS DAY
+
+  Mr. LEVIN. Madam President, I ask unanimous consent that the 
+Judiciary Committee be discharged from further consideration of Senate 
+Joint Resolution 168, designating ``Vietnam Human Rights Day,'' and 
+that the Senate then proceed to its immediate consideration; that the 
+joint resolution be deemed read three times, passed, and the motion to 
+reconsider laid upon the table; that the preamble be agreed to; and 
+that any statements relating thereto appear in the Record at the 
+appropriate place.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  So the joint resolution (S.J. Res. 168) was deemed read the third 
+time and passed.
+  The preamble was agreed to.
+  The joint resolution, with its preamble, is as follows:
+
+                             S.J. Res. 168
+
+       Whereas May 11, 1994, is the fourth anniversary of the 
+     issuance of the Manifesto of the Non-Violent Movement for 
+     Human Rights in Vietnam;
+       Whereas the Manifesto, which calls upon Hanoi to respect 
+     basic human rights, accept a multiparty system, and restore 
+     the right of the Vietnamese people to choose their own form 
+     of government through free and fair elections, reflects the 
+     will and aspirations of the people of Vietnam;
+       Whereas the author of the Manifesto, Dr. Nguyen Dan Que, 
+     and thousands of innocent Vietnamese, including religious 
+     leaders, are imprisoned by the Socialist Republic of Vietnam 
+     because of their nonviolent struggle for freedom and human 
+     rights;
+       Whereas the leaders of the Socialist Republic of Vietnam 
+     are seeking to expand diplomatic and trade relations with the 
+     rest of the world;
+       Whereas the United States, as the leader of the free world, 
+     has a special responsibility to safeguard freedom and promote 
+     the protection of human rights throughout the world; and
+       Whereas the Congress urges Hanoi to release immediately and 
+     unconditionally all political prisoners, including Dr. Nguyen 
+     Dan Que, with full restoration of their civil and human 
+     rights; guarantee equal protection under the law to all 
+     Vietnamese, regardless of religious belief, political 
+     philosophy, or previous associations; restore all basic human 
+     rights, such as freedom of speech, religion, movement, and 
+     association; abolish the single party system and permit the 
+     functioning of all political organizations without 
+     intimidation or harassment and announce a framework and 
+     timetable for free and fair election under the sponsorship of 
+     the United Nations that will allow the Vietnamese people to 
+     choose their own form of government: Now, therefore, be it
+       Resolved by the Senate and House of Representatives of the 
+     United States of America in Congress assembled, That May 11, 
+     1994, is designated as ``Vietnam Human Rights Day'' in 
+     support of efforts by the Non-Violent Movement for Human 
+     Rights in Vietnam to achieve freedom and human right for the 
+     people of Vietnam, and the President is authorized and 
+     requested to issue a proclamation calling upon the people of 
+     the United States to commemorate such day with appropriate 
+     ceremonies and activities.
+
+                          ____________________
+```
