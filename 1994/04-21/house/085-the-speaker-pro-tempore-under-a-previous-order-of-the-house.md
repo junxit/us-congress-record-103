@@ -1,0 +1,30 @@
+---
+granule: CREC-1994-04-21-pt1-PgH83
+date: 1994-04-21
+edition: CREC
+section: HOUSE
+page: H
+citation: 140 Cong. Rec. H
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentlewoman from Arizona [Ms. English of Arizona] is recognized for 5 minutes.
+
+```
+[Congressional Record: April 21, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Arizona [Ms. English of Arizona] is recognized for 5 
+minutes.
+
+  [Ms. ENGLISH of Arizona addressed the House. Her remarks will appear 
+hereafter in the Extensions of Remarks.]
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Maryland [Mrs. Bentley] is recognized for 5 minutes.
+
+  Mrs. BENTLEY addressed the House. Her remarks will appear hereafter 
+in the Extensions of Remarks.]
+
+                          ____________________
+```
