@@ -1,0 +1,52 @@
+---
+granule: CREC-1994-12-01-pt1-PgS39
+date: 1994-12-01
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# RETIREMENT PROTECTION ACT OF 1994
+
+**Speaking:** Moynihan, Daniel Patrick (M001054) [D-NY]
+
+```
+[Congressional Record: December 1, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                   RETIREMENT PROTECTION ACT OF 1994
+
+  Mr. MOYNIHAN. Mr. President, I want to take this opportunity to 
+recognize the many staff people who played an important role in 
+crafting the Retirement Protection Act of 1994, the pension reform 
+legislation that is in title VII of the GATT implementing bill.
+  Staff of the Pension Benefit Guaranty Corporation have provided 
+invaluable assistance to the Finance Committee in this regard. In 
+particular, I wish to thank Martin Slate, PBGC's executive Director; 
+Judy Schub, Assistant Executive Director for Legislative Affairs; Nell 
+Hennessy, Chief Negotiator; William Posner, Chief Operating Officer; 
+Stuart Sirkin, head of the Corporate Planning and Research Department; 
+Carol Connor Flowe, General Counsel; and their staffs, most notably, 
+William Beyer, Terrence Deneen, Deborah Forbes, Russlyn Guritz, Richard 
+Ippolito, William James, Leslie Kramerich, Linda Mizzi, Mrichael Rae, 
+Gail Sevin, and Gretchen Young.
+  Special note should be made of the actuaries whose advice and testing 
+of alternative proposals helped us formulate major changes to the 
+complex pension funding rules: from the PBGC, C. David Gustafson, Jane 
+Pacelli, Eric Palley, Gary Gilliam, John Langhans, and Ruth Williams; 
+from the Office of Benefits Tax Counsel at the Treasury Department, 
+Harlan Weller; and from the IRS, James Holland.
+  The Treasury Department also provided us with the invaluable 
+assistance of Leslie Samuels, Assistant Secretary for Tax Policy; 
+Randolf Hardock, Benefits Tax Counsel; and Mark Iwry, Deputy Benefits 
+Tax Counsel.
+  Finally, I would like to express my appreciation to Joe Gale, Will 
+Sollee, Mark Prater, and Doug Fisher on the tax staff of the Finance 
+Committee, whose tireless efforts to smooth out the rough edges in the 
+legislation made it possible to include the Retirement Protection Act 
+in GATT.
+
+                          ____________________
+```

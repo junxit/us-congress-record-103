@@ -1,0 +1,51 @@
+---
+granule: CREC-1994-12-01-pt1-PgS105
+date: 1994-12-01
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# ADDITIONAL COSPONSORS
+
+**Measures:** S. 324, S. 2057, S. 2565
+
+```
+[Congressional Record: December 1, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                         ADDITIONAL COSPONSORS
+
+
+                                 S. 324
+
+  At the request of Mr. Baucus, the name of the Senator from South 
+Dakota [Mr. Daschle] was added as a cosponsor of S. 324, a bill to 
+improve monitoring of the domestic uses made of certain foreign grain 
+after importation, to use the export enhancement program to promote the 
+export of wheat to Mexico, and for other purposes.
+
+
+                                S. 2057
+
+  At the request of Mr. Kohl, the name of the Senator from Kentucky 
+[Mr. Ford] was added as a cosponsor of S. 2057, a bill to replace the 
+Aid to Families with Dependent Children Program under title IV of the 
+Social Security Act and a portion of the Food stamp program under the 
+Food Stamp Act of 1977 with a block grant to give the States the 
+flexibility to create innovative welfare to work programs, and for 
+other purposes
+
+
+                                S. 2565
+
+  At the request of Mr. Pressler, the name of the Senator from Kansas 
+[Mrs. Kassebaum] was added as a cosponsor of S. 2565, a bill to amend 
+the Fair Labor Standards Act of 1938 to exempt employees who perform 
+certain court reporting duties from the compensatory time requirements 
+applicable to certain public agencies, and for other purposes.
+
+                          ____________________
+```

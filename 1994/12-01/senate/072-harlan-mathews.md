@@ -1,0 +1,33 @@
+---
+granule: CREC-1994-12-01-pt1-PgS22
+date: 1994-12-01
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# HARLAN MATHEWS
+
+**Speaking:** Dodd, Christopher J. (D000388) [D-CT]
+
+```
+[Congressional Record: December 1, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                             HARLAN MATHEWS
+
+  Mr. DODD. Harlan Mathews, we only served a short time together. But 
+friendships can be formed in a short period of time. I feel as though I 
+have a new friend in Harlan Mathews. We sat on the same committee, the 
+Foreign Relations Committee. We got to be good colleagues and worked 
+together. He served his State well. He came here under different 
+circumstances, being asked to replace our colleague, Al Gore, and he 
+did a great job in serving his State, serving the Senate.
+  I can say to you, Harlan, that even though you may have been here 
+only a short time, you have left a lasting impression and you have 
+permanent friends.
+
+                          ____________________
+```

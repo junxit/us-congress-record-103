@@ -1,0 +1,49 @@
+---
+granule: CREC-1994-12-01-pt1-PgS66
+date: 1994-12-01
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# TRIBUTE TO SENATOR METZENBAUM
+
+**Speaking:** Johnston, J. Bennett (J000189) [D-LA]
+
+```
+[Congressional Record: December 1, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                     TRIBUTE TO SENATOR METZENBAUM
+
+  Mr. JOHNSTON. Mr. President, everyone has a defining characteristic, 
+and Senator Howard Metzenbaum's is loyalty, loyalty to the New Deal 
+principles of President Roosevelt, to the Democratic party, to his 
+family, and above all, to the working people of Ohio threatened by 
+structural changes in an industrial society. In their service, he has 
+spent more than 50 years in politics, serving in the Ohio legislature 
+and the United States Senate. In this body, he has fought fiercely and 
+tenaciously for his principles, not always winning but always making 
+his opponents aware that it is not safe to ignore him. In his mastery 
+of parliamentary and Senate procedure, he has made himself the 
+``majority of one'' who often prevails against a less well-prepared 
+numerical majority.
+  He is a legislative wizard, called a ``leader without portfolio'' by 
+Congressional Quarterly, who has a 65 percent success rate in getting 
+his bills enacted into law. In response to the needs of his 
+constituents in northeast Ohio, he passed worker retraining 
+legislation. Among the high points of his distinguished legislative 
+career were plant-closing notification legislation, the 7-day waiting 
+period of the Brady bill, and the FIRREA legislation of 1989.
+  Given his history of involvement in both private industry and public 
+service, it is not possible to think of Howard Metzenbaum in 
+retirement. He doesn't have the temperament for it. By 1996 I predict 
+he will have found some new outlet for his indomitable spirit, 
+abounding energy, fierce combativeness and intellectual curiosity. I 
+expect that he will make a success of anything that he does and join 
+his colleagues in wishing him well.
+
+                          ____________________
+```

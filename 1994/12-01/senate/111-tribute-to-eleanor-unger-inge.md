@@ -1,0 +1,43 @@
+---
+granule: CREC-1994-12-01-pt1-PgS58
+date: 1994-12-01
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# TRIBUTE TO ELEANOR UNGER INGE
+
+**Speaking:** Heflin, Howell (H000445) [D-AL]
+
+```
+[Congressional Record: December 1, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                     TRIBUTE TO ELEANOR UNGER INGE
+
+  Mr. HEFLIN. Mr. President, Eleanor Unger Inge, long recognized for 
+her contributions to the world of art and education, passed away on 
+October 22 at her home in Mobile, AL.
+  Mrs. Inge's life was one characterized by community service. She 
+worked with the Mobile Public Library, the University of South Alabama 
+and was president of Friends of the Saenger Center of the Arts. She 
+also served on the boards of the Mobile Mental Health Association, the 
+Allied Arts Council, the USA Arts Council, Mobile United, and was a 
+member of the Board of Trustees of Alabama A&M University.
+  Her spirit of activity and goal for betterment of the community 
+reflects well on her profession of Christianity and membership of St. 
+Paul's Episcopal Church.
+  Earlier in her life, Mrs. Inge graduated from Smith College WAVE 
+Officers School and served as a lieutenant junior grade in the U.S. 
+Navy during World War II. She also attended international graduate 
+school at Oxford University and the University of London.
+  Eleanor Unger Inge will be missed greatly by the community which she 
+served so well for so long and by all who knew her.
+  My sincerest condolences are extended to Eleanor's husband, Herndon 
+Inge, Jr., and their entire family during this time of sadness.
+
+                          ____________________
+```

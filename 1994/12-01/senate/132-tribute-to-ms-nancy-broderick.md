@@ -1,0 +1,39 @@
+---
+granule: CREC-1994-12-01-pt1-PgS77
+date: 1994-12-01
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# TRIBUTE TO MS. NANCY BRODERICK
+
+**Speaking:** Nunn, Sam (N000171) [D-GA]
+
+```
+[Congressional Record: December 1, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                     TRIBUTE TO MS. NANCY BRODERICK
+
+  Mr. NUNN. Mr. President, I would like to recognize the retirement of 
+Ms. Nancy J. Broderick, Deputy Staff Director for Congressional Affairs 
+at the Defense Logistics Agency (DLA), who is retiring after 25 years 
+of dedicated public service.
+  For the past 15 years, Ms. Broderick has worked closely with the 
+Armed Services and Appropriations Committees on numerous defense 
+readiness and acquisition issues. She has worked hard to ensure that 
+the Congress has had ready access to the material necessary to make 
+informed decisions. She was especially effective in assuring that the 
+impact of military logistics was properly considered in our readiness-
+related initiatives and in helping to clarify the tremendous complexity 
+of acquisition reform.
+  Ms. Broderick has been a consumate professional. Her candor, energy, 
+and dedication have served as an inspiration to her colleagues, and 
+reflect the best traditions of public service. I wish her the best in 
+her retirement.
+
+                          ____________________
+```

@@ -1,0 +1,47 @@
+---
+granule: CREC-1994-12-01-pt1-PgS34
+date: 1994-12-01
+edition: CREC
+section: SENATE
+page: S
+citation: 140 Cong. Rec. S
+---
+
+# COMMENDING THE ANTARES GROUP, INC., OF LANDOVER, MD
+
+**Speaking:** Johnston, J. Bennett (J000189) [D-LA], Mikulski, Barbara A. (M000702) [D-MD]
+
+```
+[Congressional Record: December 1, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+          COMMENDING THE ANTARES GROUP, INC., OF LANDOVER, MD
+
+  Mr. JOHNSTON. Mr. President, I would like to take this opportunity to 
+recognize and commend the Antares Group, Inc., of Landover, MD, for 
+their work on energy and environmental technologies. The Small Business 
+Administration has awarded the Antares Group the Administrator's Award 
+for Excellence for outstanding contribution and service in a joint 
+Government-industry project as a subcontractor of the National 
+Renewable Energy Laboratory [NREL]. The Antares Group came to my 
+attention through their work on a biomass energy project to utilize 
+switchgrass in electric power generation. This is an actual testing and 
+demonstration project involving the NREL and several electric 
+utilities. The Antares Group is a young company of engineers and 
+economists with the expertise and drive to move technology from the 
+research and development stage to demonstration and commercialization. 
+The United States is recognized around the world for its initiative and 
+creativity in energy and environmental technology. Companies like 
+Antares are key to maintaining our edge internationally in commercial 
+applications of energy and environment technology.
+  Ms. MIKULSKI. Mr. President, I would like to join with Senator 
+Johnston in recognizing the Antares Group of Landover, MD. As a small 
+business contractor, Antares has earned a reputation for engineering 
+and economic excellence. With outstanding companies such as Antares 
+working with Government and industry, we are able to achieve maximum 
+leverage for our Federal dollars in developing and commercializing 
+energy and environment technology, and creating jobs in Maryland.
+
+                          ____________________
+```
