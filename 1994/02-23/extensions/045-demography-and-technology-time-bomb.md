@@ -1,0 +1,134 @@
+---
+granule: CREC-1994-02-23-pt1-PgE50
+date: 1994-02-23
+edition: CREC
+section: EXTENSIONS
+page: E
+citation: 140 Cong. Rec. E
+---
+
+# DEMOGRAPHY AND TECHNOLOGY TIME BOMB
+
+**Speaking:** Baker, Bill (B000078) [R-CA]
+
+```
+[Congressional Record: February 23, 1994]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+
+ 
+                  DEMOGRAPHY AND TECHNOLOGY TIME BOMB
+
+                            HON. BILL BAKER
+
+                             of california
+
+                    in the house of representatives
+
+                      Wednesday, February 23, 1994
+
+  Mr. BAKER of California. Mr. Speaker, I rise today to share with my 
+colleagues a poignant article by Mr. Thomas Loarie, from my hometown of 
+Danville, CA. Mr. Loarie's article, entitled ``Demography and 
+Technology Time Bomb,'' appeared in the Wall Street Journal of February 
+16, 1994.
+  In the article, Mr. Loarie warns against just one of the dangers of 
+President Clinton's health care plan--that of the stifling of new 
+medical technologies. Instead of causing health care costs to rise, 
+medical research and development will actually bring costs down. More 
+efficient and less intrusive surgical techniques will reduce the length 
+of a hospital stay in some instances.
+  We have the best health care system in the world. We must not prevent 
+the crucial research and development that will allow it to continue to 
+improve.
+
+             [From the Wall Street Journal, Feb. 16, 1994]
+
+                  Demography and Technology Time Bomb
+
+                         (By Thomas M. Loarie)
+
+       In its quest to squeeze savings from the health care 
+     system, the Clinton health care plan threatens to put a 
+     chokehold on the single greatest source of efficiency and 
+     productivity: medical technology.
+       This is shortsighted because in less than a decade, the 
+     baby-boom generation will begin entering the peak years of 
+     health care consumption. The need for efficient, labor-
+     saving, resource-stretching tools to handle the boomers' 
+     health care needs will be greater than ever.
+       But perhaps the administration already knows this and 
+     chooses to ignore it. As a developer of medical technology, I 
+     know that the Clinton plan's impact on technology innovation 
+     will not be widely felt for about 10 years. This is roughly 
+     the time-line for a new medical device to go through 
+     development, testing and evaluation by the Food and Drug 
+     Administration.
+       Health care is the one industry where, erroneously, 
+     technological advances tend to be viewed as burdens, not 
+     solutions. But medical technology prices increased at an 
+     average annual rate of 2.9% between 1985 and 1992, vs. the 
+     3.1% rate in the primary index of producer prices throughout 
+     the U.S. economy, according to the Health Care Technology 
+     Institute in Alexandria, Va. This is despite the rapid rate 
+     of medical technology innovation during that period, a period 
+     that saw seismic changes in the way health care is delivered.
+       Development of less invasive surgical technologies, for 
+     instance, helped drive the trend toward outpatient surgery, 
+     which now constitutes nearly 60% of all hospital-based 
+     procedures. One of the most important of these technologies, 
+     laparoscopy, was considered an exotic idea when introduced in 
+     the late 1970s for a small population of infertile couples 
+     desiring pregnancy. Since then, spinoff technologies have 
+     made its applications widespread.
+       The savings that come from such innovation are often 
+     ignored. Prior to 1989, for example, it cost about $21,000 
+     plus six days in a hospital to have a gall bladder removed by 
+     conventional surgery. Today, a laparoscopic procedure 
+     performed in an ambulatory surgery center can accomplish the 
+     same thing for about $6,400.
+       Labor costs, which account for 80% of health care spending, 
+     are the true wild card, yet they are not addressed in the 
+     reform plan. Another wild card is over-utilization of 
+     technology that occurs at the direction of physicians, 
+     hospitals and consumers themselves. Here the Clinton plan 
+     proposes to attack the problem by ensnaring medical 
+     technology makers in the same bureaucratic net as technology 
+     users. This is like cooling down the pace of 
+     telecommunications innovation as a national strategy for 
+     dealing with teenagers' overuse of their parents' telephones.
+       If the health care system falls to fully exploit 
+     technology's leveraging capacity, the needs and demands of an 
+     aging population will either bust the nation's treasury or 
+     require unnecessary, if not politically unacceptable, 
+     rationing.
+       Since coming under the regulatory purview of the FDA in 
+     1976, our industry has undergone a series of ever-tightening 
+     R&D controls and product requirements. A three- to five-year 
+     FDA review process that was in force when my company started 
+     in 1986 is now a five- to seven-year process, which extends 
+     the full R&D cycle for many companies to 10 years or more. As 
+     a result, costs associated with surviving the FDA new product 
+     gantlet have grown substantially higher, while potential 
+     returns have been further deferred.
+       The chilling effect of the administration's plans for 
+     health care spending caps can be seen by almost every leading 
+     health care analyst on Wall Street. Their nearly unanimous 
+     evaluation is that medical technology companies are among the 
+     ``big losers'' in the Clinton plan. Uncertainties over how 
+     new technologies will be assessed, how prices will be set, 
+     and how global budgets will affect new technologies over the 
+     long term have added measurably to the risk of investment.
+       It is fantasy for Washington to think medical technology 
+     investors have unlimited reserves of courage and patience. A 
+     bureaucratic scheme that makes irrelevant such foundational 
+     concepts as market research, pricing strategies and product-
+     development timelines may be just the thing to steer 
+     investors into less precarious pursuits, along such lines as 
+     oil drilling or perhaps gold prospecting.
+       The president's plan puts the brakes on new advances that 
+     might otherwise be there to serve aging boomers like the 
+     Clintons, at a moment when the health care system will be put 
+     to its strongest test yet.
+
+                          ____________________
+```
